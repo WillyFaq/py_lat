@@ -1,0 +1,55 @@
+{
+  "id": "67d5ef8b-c2ac-4f36-ac19-22eee67121bb",
+  "version": "2.0",
+  "name": "9gag",
+  "url": "https://9gag.com/gag/aAe9XMp",
+  "tests": [{
+    "id": "ebaf1736-1be3-48d9-a245-27c3325e8d88",
+    "name": "1",
+    "commands": [{
+      "id": "077cba4c-8353-4b13-bede-4366c4c7e42b",
+      "comment": "",
+      "command": "open",
+      "target": "https://9gag.com/gag/aAe9XMp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cb0216fd-a16c-4b18-b19d-8e242532367c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1004x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9ab5e1c2-776e-4b1b-b04e-32bbcf130681",
+      "comment": "",
+      "command": "click",
+      "target": "css=li > .up",
+      "targets": [
+        ["css=li > .up", "css:finder"],
+        ["xpath=//article[@id='jsid-post-aAe9XMp']/div/div/div/ul/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'javascript:void(0);')])[7]", "xpath:href"],
+        ["xpath=//div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'UP')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "db057f14-806e-44d1-85a1-f5d889525603",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "58ae9060-4e6a-4404-b5d2-d78da8d8a704",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ebaf1736-1be3-48d9-a245-27c3325e8d88"]
+  }],
+  "urls": ["https://9gag.com/", "https://9gag.com/gag/aAe9XMp"],
+  "plugins": []
+}

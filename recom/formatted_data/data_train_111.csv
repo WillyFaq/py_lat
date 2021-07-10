@@ -1,0 +1,608 @@
+userId,userRating,imdbId,title,genres,directors,actors,imdbRating
+111,3.5,0113041,Father of the Bride Part II (1995),Comedy,Charles Shyer,Steve Martin|Diane Keaton|Martin Short|Kimberly Williams-Paisley,6.0
+111,4.5,0112641,Casino (1995),Crime|Drama,Martin Scorsese,Robert De Niro|Sharon Stone|Joe Pesci|James Woods,8.2
+111,2.5,0114168,Powder (1995),Drama|Sci-Fi,Victor Salva,Mary Steenburgen|Sean Patrick Flanery|Lance Henriksen|Jeff Goldblum,6.6
+111,2.5,0112431,Babe (1995),Children|Drama,Chris Noonan,Christine Cavanaugh|Miriam Margolyes|Danny Mann|Hugo Weaving,6.8
+111,4.0,0112697,Clueless (1995),Comedy|Romance,Amy Heckerling,Alicia Silverstone|Stacey Dash|Brittany Murphy|Paul Rudd,6.8
+111,3.5,0114148,Pocahontas (1995),Animation|Children|Drama|Musical|Romance,Mike Gabriel|Eric Goldberg,Joe Baker|Christian Bale|Irene Bedard|Billy Connolly,6.7
+111,3.5,0115683,Bio-Dome (1996),Comedy,Jason Bloom,William Atherton|Denise Dowse|Dara Tomanovich|Kevin West,4.4
+111,3.5,0116483,Happy Gilmore (1996),Comedy,Dennis Dugan,Adam Sandler|Christopher McDonald|Julie Bowen|Frances Bay,7.0
+111,4.0,0112442,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller,Michael Bay,Lisa Boyle|Michael Taliferro|Emmanuel Xuereb|Tchéky Karyo,6.9
+111,2.5,0113749,Mallrats (1995),Comedy|Romance,Kevin Smith,Shannen Doherty|Jeremy London|Jason Lee|Claire Forlani,7.2
+111,3.0,0114436,Showgirls (1995),Drama,Paul Verhoeven,Elizabeth Berkley|Kyle MacLachlan|Gina Gershon|Glenn Plummer,4.7
+111,3.5,0114682,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy,Beeban Kidron,Wesley Snipes|Patrick Swayze|John Leguizamo|Stockard Channing,6.5
+111,4.5,0111161,"Shawshank Redemption, The (1994)",Crime|Drama,Frank Darabont,Tim Robbins|Morgan Freeman|Bob Gunton|William Sadler,9.3
+111,2.5,0114614,Tank Girl (1995),Action|Comedy|Sci-Fi,Rachel Talalay,Lori Petty|Ice-T|Naomi Watts|Don Harvey,5.3
+111,5.0,0109830,Forrest Gump (1994),Comedy|Drama|Romance|War,Robert Zemeckis,Tom Hanks|Rebecca Williams|Sally Field|Michael Conner Humphreys,8.8
+111,3.5,0110357,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,Roger Allers|Rob Minkoff,Rowan Atkinson|Matthew Broderick|Niketa Calame-Harris|Jim Cummings,8.5
+111,4.0,0106220,Addams Family Values (1993),Children|Comedy|Fantasy,Barry Sonnenfeld,Anjelica Huston|Raul Julia|Christopher Lloyd|Joan Cusack,6.7
+111,2.5,0107290,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,Steven Spielberg,Sam Neill|Laura Dern|Jeff Goldblum|Richard Attenborough,8.1
+111,4.0,0107614,Mrs. Doubtfire (1993),Comedy|Drama,Chris Columbus,Robin Williams|Sally Field|Pierce Brosnan|Harvey Fierstein,7.0
+111,4.0,0107688,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical,Henry Selick,Danny Elfman|Chris Sarandon|Catherine O'Hara|William Hickey,8.0
+111,2.5,0112572,"Brady Bunch Movie, The (1995)",Comedy,Betty Thomas,Shelley Long|Gary Cole|Christine Taylor|Christopher Daniel Barnes,6.0
+111,4.5,0103639,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,Ron Clements|John Musker,Scott Weinger|Robin Williams|Linda Larkin|Jonathan Freeman,8.0
+111,0.5,0102926,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,Jonathan Demme,Jodie Foster|Lawrence A. Bonney|Kasi Lemmons|Lawrence T. Wrentz,8.6
+111,3.0,0101414,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,Gary Trousdale|Kirk Wise,Robby Benson|Jesse Corti|Rex Everhart|Angela Lansbury,8.0
+111,4.0,0100405,Pretty Woman (1990),Comedy|Romance,Garry Marshall,Richard Gere|Julia Roberts|Ralph Bellamy|Jason Alexander,7.0
+111,2.5,0117705,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,Joe Pytka,Michael Jordan|Wayne Knight|Theresa Randle|Manner Washington,6.4
+111,4.0,0117108,Multiplicity (1996),Comedy,Harold Ramis,Michael Keaton|Andie MacDowell|Zack Duhame|Katie Schlossberg,6.0
+111,2.5,0115798,"Cable Guy, The (1996)",Comedy|Thriller,Ben Stiller,Jim Carrey|Matthew Broderick|Leslie Mann|Jack Black,6.1
+111,4.0,0117008,Matilda (1996),Children|Comedy|Fantasy,Danny DeVito,Mara Wilson|Danny DeVito|Rhea Perlman|Embeth Davidtz,6.9
+111,4.0,0106611,Cool Runnings (1993),Comedy,Jon Turteltaub,Leon|Doug E. Doug|Rawle D. Lewis|Malik Yoba,6.9
+111,4.0,0058331,Mary Poppins (1964),Children|Comedy|Fantasy|Musical,Robert Stevenson,Julie Andrews|Dick Van Dyke|David Tomlinson|Glynis Johns,7.8
+111,3.5,0043274,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical,Clyde Geronimi|Wilfred Jackson|Hamilton Luske,Kathryn Beaumont|Ed Wynn|Richard Haydn|Sterling Holloway,7.4
+111,2.0,0095016,Die Hard (1988),Action|Crime|Thriller,John McTiernan,Bruce Willis|Bonnie Bedelia|Reginald VelJohnson|Paul Gleason,8.2
+111,1.0,0117802,Swingers (1996),Comedy|Drama,Doug Liman,Jon Favreau|Vince Vaughn|Ron Livingston|Patrick Van Horn,7.3
+111,3.0,0092890,Dirty Dancing (1987),Drama|Musical|Romance,Emile Ardolino,Jennifer Grey|Patrick Swayze|Jerry Orbach|Cynthia Rhodes,6.9
+111,3.5,0093779,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,Rob Reiner,Cary Elwes|Mandy Patinkin|Chris Sarandon|Christopher Guest,8.1
+111,1.5,0066921,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,Stanley Kubrick,Malcolm McDowell|Patrick Magee|Michael Bates|Warren Clarke,8.3
+111,4.0,0032455,Fantasia (1940),Animation|Children|Fantasy|Musical,James Algar|Samuel Armstrong|Ford Beebe Jr.|Norman Ferguson|David Hand|Jim Handley|T. Hee|Wilfred Jackson|Hamilton Luske|Bill Roberts|Paul Satterfield|Ben Sharpsteen,Leopold Stokowski|Deems Taylor,7.8
+111,2.5,0115433,101 Dalmatians (1996),Adventure|Children|Comedy,Stephen Herek,Glenn Close|Jeff Daniels|Joely Richardson|Joan Plowright,5.7
+111,0.5,0117571,Scream (1996),Comedy|Horror|Mystery|Thriller,Wes Craven,Drew Barrymore|Roger Jackson|Kevin Patrick Walls|David Booth,7.2
+111,3.5,0119528,Liar Liar (1997),Comedy,Tom Shadyac,Jim Carrey|Maura Tierney|Justin Cooper|Cary Elwes,6.9
+111,3.0,0120032,Romy and Michele's High School Reunion (1997),Comedy,David Mirkin,Mira Sorvino|Lisa Kudrow|Janeane Garofalo|Alan Cumming,6.2
+111,4.0,0118655,Austin Powers: International Man of Mystery (1997),Action|Adventure|Comedy,Jay Roach,Mike Myers|Elizabeth Hurley|Michael York|Mimi Rogers,7.0
+111,2.0,0119567,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller,Steven Spielberg,Jeff Goldblum|Julianne Moore|Pete Postlethwaite|Arliss Howard,6.5
+111,3.0,0118688,Batman & Robin (1997),Action|Adventure|Fantasy|Thriller,Joel Schumacher,Arnold Schwarzenegger|George Clooney|Chris O'Donnell|Uma Thurman,3.7
+111,3.5,0119282,Hercules (1997),Adventure|Animation|Children|Comedy|Musical,Ron Clements|John Musker,Tate Donovan|Josh Keaton|Roger Bart|Danny DeVito,7.3
+111,3.5,0119738,My Best Friend's Wedding (1997),Comedy|Romance,P.J. Hogan,Julia Roberts|Dermot Mulroney|Cameron Diaz|Rupert Everett,6.3
+111,3.0,0119654,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,Barry Sonnenfeld,Tommy Lee Jones|Will Smith|Linda Fiorentino|Vincent D'Onofrio,7.3
+111,3.5,0119190,George of the Jungle (1997),Children|Comedy,Sam Weisman,Brendan Fraser|Leslie Mann|Thomas Haden Church|Richard Roundtree,5.5
+111,0.5,0119345,I Know What You Did Last Summer (1997),Horror|Mystery|Thriller,Jim Gillespie,Jennifer Love Hewitt|Sarah Michelle Gellar|Ryan Phillippe|Freddie Prinze Jr.,5.7
+111,2.0,0120201,Starship Troopers (1997),Action|Sci-Fi,Paul Verhoeven,Casper Van Dien|Dina Meyer|Denise Richards|Jake Busey,7.2
+111,4.0,0120382,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi,Peter Weir,Jim Carrey|Laura Linney|Noah Emmerich|Natascha McElhone,8.1
+111,4.0,0119137,Flubber (1997),Children|Comedy|Fantasy,Les Mayfield,Robin Williams|Marcia Gay Harden|Christopher McDonald|Ted Levine,5.2
+111,4.0,0119217,Good Will Hunting (1997),Drama|Romance,Gus Van Sant,Matt Damon|Ben Affleck|Stellan Skarsgård|John Mighton,8.3
+111,4.0,0120338,Titanic (1997),Drama|Romance,James Cameron,Leonardo DiCaprio|Kate Winslet|Billy Zane|Kathy Bates,7.8
+111,3.5,0120888,"Wedding Singer, The (1998)",Comedy|Romance,Frank Coraci,Adam Sandler|Drew Barrymore|Christine Taylor|Allen Covert,6.8
+111,3.0,0120890,Wild Things (1998),Crime|Drama|Mystery|Thriller,John McNaughton,Kevin Bacon|Matt Dillon|Neve Campbell|Theresa Russell,6.5
+111,4.0,0138563,Kurt & Courtney (1998),Documentary,Nick Broomfield,Nick Broomfield|Kurt Cobain|Courtney Love|Mari Earle,6.1
+111,3.0,0120669,Fear and Loathing in Las Vegas (1998),Adventure|Comedy|Drama,Terry Gilliam,Johnny Depp|Benicio Del Toro|Tobey Maguire|Michael Lee Gogin,7.7
+111,4.0,0127723,Can't Hardly Wait (1998),Comedy|Drama|Romance,Harry Elfont|Deborah Kaplan,Jennifer Love Hewitt|Ethan Embry|Charlie Korsmo|Lauren Ambrose,6.5
+111,3.5,0120762,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance,Tony Bancroft|Barry Cook,Miguel Ferrer|Harvey Fierstein|Freda Foh Shen|June Foray,7.6
+111,3.5,0118998,Dr. Dolittle (1998),Comedy,Betty Thomas,Eddie Murphy|Ossie Davis|Oliver Platt|Peter Boyle,5.4
+111,2.0,0089218,"Goonies, The (1985)",Action|Adventure|Children|Comedy|Fantasy,Richard Donner,Sean Astin|Josh Brolin|Jeff Cohen|Corey Feldman,7.8
+111,3.5,0061852,"Jungle Book, The (1967)",Animation|Children|Comedy|Musical,Wolfgang Reitherman,Phil Harris|Sebastian Cabot|Bruce Reitherman|George Sanders,7.6
+111,3.0,0097757,"Little Mermaid, The (1989)",Animation|Children|Comedy|Musical|Romance,Ron Clements|John Musker,Rene Auberjonois|Christopher Daniel Barnes|Jodi Benson|Pat Carroll,7.6
+111,4.0,0101272,"Addams Family, The (1991)",Children|Comedy|Fantasy,Barry Sonnenfeld,Anjelica Huston|Raul Julia|Christopher Lloyd|Dan Hedaya,6.9
+111,3.5,0120631,Ever After: A Cinderella Story (1998),Comedy|Drama|Romance,Andy Tennant,Drew Barrymore|Anjelica Huston|Dougray Scott|Patrick Godfrey,7.0
+111,3.0,0091790,Pretty in Pink (1986),Comedy|Drama|Romance,Howard Deutch,Molly Ringwald|Harry Dean Stanton|Jon Cryer|Annie Potts,6.8
+111,3.5,0120611,Blade (1998),Action|Horror|Thriller,Stephen Norrington,Wesley Snipes|Stephen Dorff|Kris Kristofferson|N'Bushe Wright,7.1
+111,4.5,0094721,Beetlejuice (1988),Comedy|Fantasy,Tim Burton,Alec Baldwin|Geena Davis|Annie McEnroe|Maurice Page,7.5
+111,2.5,0120587,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,Eric Darnell|Tim Johnson,Woody Allen|Dan Aykroyd|Anne Bancroft|Jane Curtin,6.6
+111,3.5,0120586,American History X (1998),Crime|Drama,Tony Kaye,Edward Norton|Edward Furlong|Beverly D'Angelo|Jennifer Lien,8.5
+111,3.5,0120484,"Waterboy, The (1998)",Comedy,Frank Coraci,Adam Sandler|Kathy Bates|Henry Winkler|Fairuza Balk,6.1
+111,4.0,0120623,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,John Lasseter|Andrew Stanton(co-director),Dave Foley|Kevin Spacey|Julia Louis-Dreyfus|Hayden Panettiere,7.2
+111,2.5,0133751,"Faculty, The (1998)",Horror|Sci-Fi,Robert Rodriguez,Jordana Brewster|Clea DuVall|Laura Harris|Josh Hartnett,6.5
+111,4.0,0139699,Varsity Blues (1999),Comedy|Drama,Brian Robbins,James Van Der Beek|Jon Voight|Paul Walker|Ron Lester,6.5
+111,4.0,0160862,She's All That (1999),Comedy|Romance,Robert Iscove,Freddie Prinze Jr.|Rachael Leigh Cook|Matthew Lillard|Paul Walker,5.9
+111,3.0,0122933,Analyze This (1999),Comedy,Harold Ramis,Robert De Niro|Billy Crystal|Lisa Kudrow|Chazz Palminteri,6.7
+111,4.0,0139134,Cruel Intentions (1999),Drama,Roger Kumble,Sarah Michelle Gellar|Ryan Phillippe|Reese Witherspoon|Selma Blair,6.8
+111,0.5,0133093,"Matrix, The (1999)",Action|Sci-Fi|Thriller,Lana Wachowski|Lilly Wachowski,Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss|Hugo Weaving,8.7
+111,4.0,0147800,10 Things I Hate About You (1999),Comedy|Romance,Gil Junger,Heath Ledger|Julia Stiles|Joseph Gordon-Levitt|Larisa Oleynik,7.3
+111,4.0,0151738,Never Been Kissed (1999),Comedy|Romance,Raja Gosnell,Drew Barrymore|David Arquette|Michael Vartan|Molly Shannon,6.0
+111,3.5,0120616,"Mummy, The (1999)",Action|Adventure|Comedy|Fantasy|Horror|Thriller,Stephen Sommers,Brendan Fraser|Rachel Weisz|John Hannah|Arnold Vosloo,7.0
+111,3.0,0145660,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy,Jay Roach,Mike Myers|Heather Graham|Michael York|Robert Wagner,6.6
+111,3.0,0142342,Big Daddy (1999),Comedy,Dennis Dugan,Adam Sandler|Joey Lauren Adams|Jon Stewart|Cole Sprouse,6.4
+111,3.0,0158983,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical,Trey Parker,Trey Parker|Matt Stone|Mary Kay Bergman|Isaac Hayes,7.8
+111,4.0,0120891,Wild Wild West (1999),Action|Comedy|Sci-Fi|Western,Barry Sonnenfeld,Will Smith|Kevin Kline|Kenneth Branagh|Salma Hayek,4.9
+111,2.5,0097428,Ghostbusters II (1989),Comedy|Fantasy|Sci-Fi,Ivan Reitman,Bill Murray|Dan Aykroyd|Sigourney Weaver|Harold Ramis,6.5
+111,4.0,0157503,Drop Dead Gorgeous (1999),Comedy,Michael Patrick Jann,Kirsten Dunst|Ellen Barkin|Allison Janney|Denise Richards,6.6
+111,4.0,0169547,American Beauty (1999),Drama|Romance,Sam Mendes,Kevin Spacey|Annette Bening|Thora Birch|Wes Bentley,8.4
+111,3.0,0100802,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller,Paul Verhoeven,Arnold Schwarzenegger|Rachel Ticotin|Sharon Stone|Ronny Cox,7.5
+111,3.5,0091042,Ferris Bueller's Day Off (1986),Comedy,John Hughes,Matthew Broderick|Alan Ruck|Mia Sara|Jeffrey Jones,7.8
+111,5.0,0137523,Fight Club (1999),Action|Crime|Drama|Thriller,David Fincher,Edward Norton|Brad Pitt|Meat Loaf|Zach Grenier,8.8
+111,3.5,0096438,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,Robert Zemeckis,Bob Hoskins|Christopher Lloyd|Joanna Cassidy|Charles Fleischer,7.7
+111,5.0,0120655,Dogma (1999),Adventure|Comedy|Fantasy,Kevin Smith,Bud Cort|Barret Hackney|Jared Pfennigwerth|Kitao Sakurai,7.3
+111,4.0,0125664,Man on the Moon (1999),Comedy|Drama,Milos Forman,Jim Carrey|Gerry Becker|Greyson Erik Pendry|Brittany Colonna,7.4
+111,3.5,0177789,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi,Dean Parisot,Tim Allen|Sigourney Weaver|Alan Rickman|Tony Shalhoub,7.3
+111,4.0,0195945,Next Friday (2000),Comedy,Steve Carr,Ice Cube|Mike Epps|Justin Pierce|John Witherspoon,6.1
+111,4.0,0172493,"Girl, Interrupted (1999)",Drama,James Mangold,Winona Ryder|Angelina Jolie|Clea DuVall|Brittany Murphy,7.4
+111,2.0,0083929,Fast Times at Ridgemont High (1982),Comedy|Drama|Romance,Amy Heckerling,Sean Penn|Jennifer Jason Leigh|Judge Reinhold|Robert Romanus,7.2
+111,3.5,0105417,Sister Act (1992),Comedy|Crime,Emile Ardolino,Whoopi Goldberg|Maggie Smith|Kathy Najimy|Wendy Makkena,6.3
+111,5.0,0105793,Wayne's World (1992),Comedy,Penelope Spheeris,Mike Myers|Dana Carvey|Rob Lowe|Tia Carrere,7.0
+111,3.5,0108525,Wayne's World 2 (1993),Comedy,Stephen Surjik,Mike Myers|Dana Carvey|Christopher Walken|Tia Carrere,6.2
+111,4.0,0104694,"League of Their Own, A (1992)",Comedy|Drama,Penny Marshall,Tom Hanks|Geena Davis|Lori Petty|Madonna,7.2
+111,0.5,0134084,Scream 3 (2000),Comedy|Horror|Mystery|Thriller,Wes Craven,Liev Schreiber|Beth Toussaint|Roger Jackson|Kelly Rutherford,5.6
+111,5.0,0144117,"Boondock Saints, The (2000)",Action|Crime|Drama|Thriller,Troy Duffy,Willem Dafoe|Sean Patrick Flanery|Norman Reedus|David Della Rocco,7.8
+111,4.0,0190138,"Whole Nine Yards, The (2000)",Comedy|Crime,Jonathan Lynn,Bruce Willis|Matthew Perry|Rosanna Arquette|Michael Clarke Duncan,6.7
+111,3.5,0195685,Erin Brockovich (2000),Drama,Steven Soderbergh,Julia Roberts|David Brisbin|Dawn Didawick|Albert Finney,7.3
+111,3.5,0102057,Hook (1991),Adventure|Comedy|Fantasy,Steven Spielberg,Dustin Hoffman|Robin Williams|Julia Roberts|Bob Hoskins,6.7
+111,3.5,0144084,American Psycho (2000),Crime|Horror|Mystery|Thriller,Mary Harron,Christian Bale|Justin Theroux|Josh Lucas|Bill Sage,7.6
+111,3.0,0215129,Road Trip (2000),Comedy,Todd Phillips,Breckin Meyer|Seann William Scott|Amy Smart|Paulo Costanzo,6.5
+111,2.0,0208003,Big Momma's House (2000),Comedy,Raja Gosnell,Martin Lawrence|Nia Long|Paul Giamatti|Jascha Washington,5.1
+111,3.0,0183505,"Me, Myself & Irene (2000)",Adventure|Comedy,Bobby Farrelly|Peter Farrelly,Jim Carrey|Renée Zellweger|Anthony Anderson|Mongo Brownlee,6.6
+111,2.5,0175142,Scary Movie (2000),Comedy|Horror,Keenen Ivory Wayans,Carmen Electra|Dave Sheridan|Frank B. Moore|Giacomo Baessato,6.2
+111,1.5,0144528,Nutty Professor II: The Klumps (2000),Comedy,Peter Segal,Eddie Murphy|Janet Jackson|Larry Miller|John Ales,4.4
+111,3.0,0200550,Coyote Ugly (2000),Comedy|Drama|Romance,David McNally,Piper Perabo|Adam Garcia|John Goodman|Maria Bello,5.7
+111,2.5,0191397,"Replacements, The (2000)",Comedy,Howard Deutch,Keanu Reeves|Gene Hackman|Brooke Langton|Orlando Jones,6.5
+111,4.0,0204946,Bring It On (2000),Comedy,Peyton Reed,Kirsten Dunst|Eliza Dushku|Jesse Bradford|Gabrielle Union,6.0
+111,4.0,0181875,Almost Famous (2000),Drama,Cameron Crowe,Billy Crudup|Frances McDormand|Kate Hudson|Jason Lee,7.9
+111,1.0,0212338,Meet the Parents (2000),Comedy,Jay Roach,Robert De Niro|Ben Stiller|Teri Polo|Blythe Danner,7.0
+111,3.0,0180093,Requiem for a Dream (2000),Drama,Darren Aronofsky,Ellen Burstyn|Jared Leto|Jennifer Connelly|Marlon Wayans,8.3
+111,3.5,0160127,Charlie's Angels (2000),Action|Comedy,McG,Cameron Diaz|Drew Barrymore|Lucy Liu|Bill Murray,5.5
+111,1.5,0185431,Little Nicky (2000),Comedy,Steven Brill,Adam Sandler|Patricia Arquette|Harvey Keitel|Rhys Ifans,5.3
+111,3.5,0203019,Men of Honor (2000),Drama,George Tillman Jr.,Robert De Niro|Cuba Gooding Jr.|Charlize Theron|Aunjanue Ellis,7.2
+111,3.5,0170016,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),Children|Comedy|Fantasy,Ron Howard,Jim Carrey|Taylor Momsen|Kelley|Jeffrey Tambor,6.1
+111,3.0,0208092,Snatch (2000),Comedy|Crime|Thriller,Guy Ritchie,Benicio Del Toro|Dennis Farina|Vinnie Jones|Brad Pitt,8.3
+111,3.5,0242423,"Dude, Where's My Car? (2000)",Comedy|Sci-Fi,Danny Leiner,Ashton Kutcher|Seann William Scott|Jennifer Garner|Marla Sokoloff,5.5
+111,2.5,0120917,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,Mark Dindal,David Spade|John Goodman|Eartha Kitt|Patrick Warburton,7.3
+111,3.5,0207201,What Women Want (2000),Comedy|Romance,Nancy Meyers,Mel Gibson|Helen Hunt|Marisa Tomei|Alan Alda,6.4
+111,3.5,0212346,Miss Congeniality (2000),Comedy|Crime,Donald Petrie,Sandra Bullock|Michael Caine|Benjamin Bratt|Candice Bergen,6.2
+111,2.5,0206275,Save the Last Dance (2001),Drama|Romance,Thomas Carter,Julia Stiles|Sean Patrick Thomas|Kerry Washington|Fredro Starr,6.2
+111,4.0,0186589,Sugar & Spice (2001),Comedy,Francine McDougall,Marla Sokoloff|Marley Shelton|Melissa George|Mena Suvari,5.6
+111,2.5,0209475,"Wedding Planner, The (2001)",Comedy|Romance,Adam Shankman,Jennifer Lopez|Matthew McConaughey|Bridgette Wilson-Sampras|Justin Chambers,5.3
+111,0.5,0212985,Hannibal (2001),Horror|Thriller,Ridley Scott,Anthony Hopkins|Julianne Moore|Gary Oldman|Ray Liotta,6.8
+111,2.5,0239948,Saving Silverman (Evil Woman) (2001),Comedy|Romance,Dennis Dugan,Steve Zahn|Jack Black|Jason Biggs|Amanda Peet,5.9
+111,3.5,0209144,Memento (2000),Mystery|Thriller,Christopher Nolan,Guy Pearce|Carrie-Anne Moss|Joe Pantoliano|Mark Boone Junior,8.5
+111,2.5,0125022,Heartbreakers (2001),Comedy|Crime|Romance,David Mirkin,Sigourney Weaver|Jennifer Love Hewitt|Ray Liotta|Jason Lee,6.2
+111,3.0,0221027,Blow (2001),Crime|Drama,Ted Demme,Johnny Depp|Penélope Cruz|Franka Potente|Rachel Griffiths,7.6
+111,4.0,0243155,Bridget Jones's Diary (2001),Comedy|Drama|Romance,Sharon Maguire,Renée Zellweger|Gemma Jones|Celia Imrie|James Faulkner,6.7
+111,3.0,0245686,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance,Dennie Gordon,David Spade|Brittany Daniel|Dennis Miller|Adam Beach,5.9
+111,2.0,0240515,Freddy Got Fingered (2001),Comedy,Tom Green,Tom Green|Rip Torn|Marisa Coughlan|Eddie Kaye Thomas,4.5
+111,2.0,0086250,Scarface (1983),Action|Crime|Drama,Brian De Palma,Al Pacino|Steven Bauer|Michelle Pfeiffer|Mary Elizabeth Mastrantonio,8.3
+111,3.5,0209163,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller,Stephen Sommers,Brendan Fraser|Rachel Weisz|John Hannah|Arnold Vosloo,6.4
+111,3.5,0183790,"Knight's Tale, A (2001)",Action|Comedy|Romance,Brian Helgeland,Heath Ledger|Rufus Sewell|Shannyn Sossamon|Paul Bettany,6.9
+111,3.0,0126029,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,Andrew Adamson|Vicky Jenson,Mike Myers|Eddie Murphy|Cameron Diaz|John Lithgow,7.9
+111,2.5,0203009,Moulin Rouge (2001),Drama|Musical|Romance,Baz Luhrmann,Nicole Kidman|Ewan McGregor|John Leguizamo|Jim Broadbent,7.6
+111,2.0,0255798,"Animal, The (2001)",Comedy,Luke Greenfield,Rob Schneider|Colleen Haskell|John C. McGinley|Edward Asner,4.8
+111,3.5,0146316,Lara Croft: Tomb Raider (2001),Action|Adventure,Simon West,Angelina Jolie|Jon Voight|Iain Glen|Noah Taylor,5.8
+111,0.5,0257106,Scary Movie 2 (2001),Comedy,Keenen Ivory Wayans,Antony Acker|Mark Barrett|Richard Bellos|Suzanne Bianqui,5.3
+111,3.5,0250494,Legally Blonde (2001),Comedy|Romance,Robert Luketic,Reese Witherspoon|Luke Wilson|Selma Blair|Matthew Davis,6.3
+111,3.0,0227445,"Score, The (2001)",Action|Drama,Frank Oz,Robert De Niro|Edward Norton|Marlon Brando|Angela Bassett,6.8
+111,3.5,0091949,Short Circuit (1986),Comedy|Sci-Fi,John Badham,Ally Sheedy|Steve Guttenberg|Fisher Stevens|Austin Pendleton,6.6
+111,4.5,0243655,Wet Hot American Summer (2001),Comedy,David Wain,Janeane Garofalo|David Hyde Pierce|Michael Showalter|Marguerite Moreau,6.7
+111,3.0,0247638,"Princess Diaries, The (2001)",Children|Comedy|Romance,Garry Marshall,Julie Andrews|Anne Hathaway|Hector Elizondo|Heather Matarazzo,6.3
+111,2.0,0252866,American Pie 2 (2001),Comedy,J.B. Rogers,Jason Biggs|Shannon Elizabeth|Alyson Hannigan|Chris Klein,6.4
+111,3.0,0261392,Jay and Silent Bob Strike Back (2001),Adventure|Comedy,Kevin Smith,Jason Mewes|Kevin Smith|Ben Affleck|Jeff Anderson,6.9
+111,3.0,0196229,Zoolander (2001),Comedy,Ben Stiller,Ben Stiller|Owen Wilson|Christine Taylor|Will Ferrell,6.6
+111,3.0,0120681,From Hell (2001),Crime|Horror|Mystery|Thriller,Albert Hughes|Allen Hughes,Johnny Depp|Heather Graham|Ian Holm|Robbie Coltrane,6.8
+111,4.0,0246578,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,Richard Kelly,Jake Gyllenhaal|Holmes Osborne|Maggie Gyllenhaal|Daveigh Chase,8.1
+111,3.0,0198781,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,Pete Docter|David Silverman(co-director)|Lee Unkrich(co-director),John Goodman|Billy Crystal|Mary Gibbs|Steve Buscemi,8.1
+111,3.0,0256380,Shallow Hal (2001),Comedy|Fantasy|Romance,Bobby Farrelly|Peter Farrelly,Gwyneth Paltrow|Jack Black|Jason Alexander|Joe Viterelli,5.9
+111,4.0,0241527,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,Chris Columbus,Richard Harris|Maggie Smith|Robbie Coltrane|Saunders Triplets,7.6
+111,4.0,0253798,Out Cold (2001),Comedy,Brendan Malloy|Emmett Malloy,Flex Alexander|A.J. Cook|David Denman|Caroline Dhavernas,6.3
+111,4.5,0240772,Ocean's Eleven (2001),Crime|Thriller,Steven Soderbergh,George Clooney|Cecelia Ann Birt|Paul L. Nolan|Carol Florence,7.8
+111,1.0,0277371,Not Another Teen Movie (2001),Comedy,Joel Gallen,Chyler Leigh|Chris Evans|Jaime Pressly|Eric Christian Olsen,5.7
+111,5.0,0278488,How High (2001),Comedy,Jesse Dylan,Method Man|Redman|Obba Babatundé|Mike Epps,6.3
+111,4.0,0268978,"Beautiful Mind, A (2001)",Drama|Romance,Ron Howard,Russell Crowe|Ed Harris|Jennifer Connelly|Christopher Plummer,8.2
+111,3.0,0273923,Orange County (2002),Comedy,Jake Kasdan,Colin Hanks|Jack Black|Schuyler Fisk|Bret Harrison,6.2
+111,1.5,0281358,"Walk to Remember, A (2002)",Drama|Romance,Adam Shankman,Shane West|Mandy Moore|Peter Coyote|Daryl Hannah,7.4
+111,4.5,0247745,Super Troopers (2001),Comedy|Crime|Mystery,Jay Chandrasekhar,André Vippolis|Joey Kern|Geoffrey Arend|Erik Stolhanske,7.1
+111,3.5,0268380,Ice Age (2002),Adventure|Animation|Children|Comedy,Chris Wedge|Carlos Saldanha(co-director),Ray Romano|John Leguizamo|Denis Leary|Goran Visnjic,7.5
+111,4.5,0283111,National Lampoon's Van Wilder (2002),Comedy,Walt Becker,Ryan Reynolds|Tara Reid|Tim Matheson|Kal Penn,6.4
+111,3.0,0241760,"New Guy, The (2002)",Comedy,Ed Decter,DJ Qualls|Eliza Dushku|Zooey Deschanel|Jerod Mixon,5.9
+111,0.5,0258463,"Bourne Identity, The (2002)",Action|Mystery|Thriller,Doug Liman,Matt Damon|Franka Potente|Chris Cooper|Clive Owen,7.9
+111,2.0,0181689,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,Steven Spielberg,Tom Cruise|Max von Sydow|Steve Harris|Neal McDonough,7.7
+111,3.0,0280590,Mr. Deeds (2002),Comedy|Romance,Steven Brill,Adam Sandler|Winona Ryder|John Turturro|Allen Covert,5.8
+111,3.5,0295178,Austin Powers in Goldmember (2002),Comedy,Jay Roach,Mike Myers|Beyoncé|Seth Green|Michael York,6.2
+111,3.5,0295427,"Master of Disguise, The (2002)",Comedy|Mystery,Perry Andelin Blake,Dana Carvey|Jennifer Esposito|Harold Gould|James Brolin,3.3
+111,3.5,0300532,Blue Crush (2002),Adventure|Drama|Romance,John Stockwell,Kate Bosworth|Matthew Davis|Michelle Rodriguez|Sanoe Lake,5.7
+111,3.0,0265459,One Hour Photo (2002),Drama|Thriller,Mark Romanek,Robin Williams|Connie Nielsen|Michael Vartan|Dylan Smith,6.8
+111,3.5,0283026,Swimfan (2002),Thriller,John Polson,Jesse Bradford|Erika Christensen|Shiri Appleby|Kate Burton,5.0
+111,3.0,0256415,Sweet Home Alabama (2002),Comedy|Romance,Andy Tennant,Reese Witherspoon|Josh Lucas|Patrick Dempsey|Candice Bergen,6.2
+111,0.5,0289765,Red Dragon (2002),Crime|Mystery|Thriller,Brett Ratner,Anthony Hopkins|Edward Norton|Ralph Fiennes|Harvey Keitel,7.2
+111,5.0,0322802,Jackass: The Movie (2002),Action|Comedy|Documentary,Jeff Tremaine,Johnny Knoxville|Bam Margera|Steve-O|Chris Pontius,6.6
+111,4.0,0298203,8 Mile (2002),Drama,Curtis Hanson,Eminem|Kim Basinger|Mekhi Phifer|Brittany Murphy,7.1
+111,4.0,0295297,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy,Chris Columbus,Daniel Radcliffe|Rupert Grint|Emma Watson|Richard Griffiths,7.4
+111,4.0,0293815,Friday After Next (2002),Comedy,Marcus Raboy,Ice Cube|Mike Epps|John Witherspoon|Don 'D.C.' Curry,5.8
+111,3.0,0302640,"Hot Chick, The (2002)",Comedy,Tom Brady,Rob Schneider|Anna Faris|Matthew Lawrence|Eric Christian Olsen,5.5
+111,3.0,0252076,Maid in Manhattan (2002),Comedy|Romance,Wayne Wang,Jennifer Lopez|Ralph Fiennes|Natasha Richardson|Stanley Tucci,5.2
+111,4.0,0264464,Catch Me If You Can (2002),Crime|Drama,Steven Spielberg,Leonardo DiCaprio|Tom Hanks|Christopher Walken|Martin Sheen,8.1
+111,2.5,0299658,Chicago (2002),Comedy|Crime|Drama|Musical,Rob Marshall,Taye Diggs|Cliff Saunders|Catherine Zeta-Jones|Renée Zellweger,7.2
+111,4.0,0270288,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Thriller,George Clooney,Dick Clark|Sam Rockwell|Michelle Sweeney|Drew Barrymore,7.1
+111,2.5,0305711,Just Married (2003),Comedy|Romance,Shawn Levy,Ashton Kutcher|Brittany Murphy|Christian Kane|David Moscow,5.5
+111,4.0,0251127,How to Lose a Guy in 10 Days (2003),Comedy|Romance,Donald Petrie,Kate Hudson|Matthew McConaughey|Kathryn Hahn|Annie Parisse,6.4
+111,3.5,0289992,"Life of David Gale, The (2003)",Crime|Drama|Thriller,Alan Parker,Kate Winslet|Cleo King|Constance Jones|Kevin Spacey,7.6
+111,4.5,0302886,Old School (2003),Comedy,Todd Phillips,Luke Wilson|Will Ferrell|Vince Vaughn|Jeremy Piven,7.1
+111,3.5,0305224,Anger Management (2003),Comedy,Peter Segal,Adam Sandler|Jack Nicholson|Marisa Tomei|Luis Guzmán,6.2
+111,3.5,0311289,Holes (2003),Adventure|Children|Comedy|Mystery,Andrew Davis,Sigourney Weaver|Jon Voight|Tim Blake Nelson|Shia LaBeouf,7.0
+111,1.0,0234215,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,Lana Wachowski|Lilly Wachowski,Ray Anthony|Christine Anu|Andy Arness|Alima Ashton-Sheibu,7.2
+111,3.0,0315327,Bruce Almighty (2003),Comedy|Drama|Fantasy|Romance,Tom Shadyac,Jim Carrey|Morgan Freeman|Jennifer Aniston|Philip Baker Hall,6.7
+111,4.0,0266543,Finding Nemo (2003),Adventure|Animation|Children|Comedy,Andrew Stanton|Lee Unkrich(co-director),Albert Brooks|Ellen DeGeneres|Alexander Gould|Willem Dafoe,8.1
+111,1.5,0329028,Dumb and Dumberer: When Harry Met Lloyd (2003),Comedy,Troy Miller,Timothy Stack|Mimi Rogers|Wayne Federman|Lucas Gregory,3.4
+111,3.5,0305357,Charlie's Angels: Full Throttle (2003),Action|Adventure|Comedy|Crime|Thriller,McG,Cameron Diaz|Drew Barrymore|Lucy Liu|Bernie Mac,4.9
+111,3.0,0325980,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,Gore Verbinski,Johnny Depp|Geoffrey Rush|Orlando Bloom|Keira Knightley,8.0
+111,3.5,0172156,Bad Boys II (2003),Action|Comedy|Crime|Thriller,Michael Bay,Martin Lawrence|Will Smith|Jordi Mollà|Gabrielle Union,6.6
+111,3.5,0325703,Lara Croft Tomb Raider: The Cradle of Life (2003),Action|Adventure|Comedy|Romance|Thriller,Jan de Bont,Angelina Jolie|Gerard Butler|Ciarán Hinds|Chris Barrie,5.5
+111,1.5,0328828,American Wedding (American Pie 3) (2003),Comedy,Jesse Dylan,Jason Biggs|Seann William Scott|Alyson Hannigan|Eddie Kaye Thomas,6.3
+111,3.0,0320691,Underworld (2003),Action|Fantasy|Horror,Len Wiseman,Kate Beckinsale|Scott Speedman|Michael Sheen|Shane Brolly,7.0
+111,3.0,0327850,"Rundown, The (2003)",Action|Adventure|Comedy,Peter Berg,Dwayne Johnson|Seann William Scott|Rosario Dawson|Christopher Walken,6.7
+111,3.0,0332379,School of Rock (2003),Comedy|Musical,Richard Linklater,Jack Black|Adam Pascal|Lucas Papaelias|Chris Stack,7.1
+111,3.5,0266697,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,Quentin Tarantino,Uma Thurman|Lucy Liu|Vivica A. Fox|Daryl Hannah,8.1
+111,0.5,0306047,Scary Movie 3 (2003),Comedy|Horror,David Zucker,Pamela Anderson|Jenny McCarthy|Marny Eng|Charlie Sheen,5.5
+111,4.0,0319343,Elf (2003),Children|Comedy|Fantasy,Jon Favreau,Will Ferrell|James Caan|Bob Newhart|Edward Asner,6.9
+111,4.0,0101862,Father of the Bride (1991),Comedy,Charles Shyer,Steve Martin|Diane Keaton|Kimberly Williams-Paisley|Kieran Culkin,6.5
+111,0.5,0348836,Gothika (2003),Horror|Thriller,Mathieu Kassovitz,Halle Berry|Robert Downey Jr.|Charles S. Dutton|John Carroll Lynch,5.8
+111,0.5,0307987,Bad Santa (2003),Comedy|Crime,Terry Zwigoff,Billy Bob Thornton|Tony Cox|Brett Kelly|Lauren Graham,7.1
+111,2.5,0340855,Monster (2003),Crime|Drama,Patty Jenkins,Charlize Theron|Christina Ricci|Bruce Dern|Lee Tergesen,7.3
+111,4.0,0076578,Pumping Iron (1977),Documentary,George Butler|Robert Fiore,Arnold Schwarzenegger|Lou Ferrigno|Matty Ferrigno|Victoria Ferrigno,7.4
+111,0.5,0289879,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,Eric Bress|J. Mackye Gruber,Ashton Kutcher|Melora Walters|Amy Smart|Elden Henson,7.7
+111,3.5,0328538,Thirteen (2003),Drama,Catherine Hardwicke,Nikki Reed|Evan Rachel Wood|Vanessa Hudgens|Holly Hunter,6.8
+111,4.5,0343660,50 First Dates (2004),Comedy|Romance,Peter Segal,Adam Sandler|Drew Barrymore|Rob Schneider|Sean Astin,6.8
+111,3.0,0356150,EuroTrip (2004),Adventure|Comedy,Jeff Schaffer|Alec Berg(co-director)|David Mandel(co-director),Scott Mechlowicz|Jacob Pitts|Kristin Kreuk|Cathy Meils,6.6
+111,3.0,0335438,Starsky & Hutch (2004),Action|Comedy|Crime|Thriller,Todd Phillips,Ben Stiller|Owen Wilson|Snoop Dogg|Fred Williamson,6.1
+111,3.5,0265208,"Girl Next Door, The (2004)",Comedy|Romance,Luke Greenfield,Emile Hirsch|Elisha Cuthbert|Timothy Olyphant|James Remar,6.7
+111,0.5,0363988,Secret Window (2004),Mystery|Thriller,David Koepp,Johnny Depp|John Turturro|Maria Bello|Timothy Hutton,6.6
+111,3.5,0338013,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,Michel Gondry,Jim Carrey|Kate Winslet|Gerry Robert Byrne|Elijah Wood,8.3
+111,3.5,0167190,Hellboy (2004),Action|Adventure|Fantasy|Horror,Guillermo del Toro,Ron Perlman|John Hurt|Selma Blair|Rupert Evans,6.9
+111,3.0,0378194,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,Quentin Tarantino,Vivica A. Fox|Ambrosia Kelley|Michael Parks|James Parks,8.0
+111,3.0,0330793,"Punisher, The (2004)",Action|Crime|Thriller,Jonathan Hensleigh,A. Russell Andrews|Omar Avila|James Carpinello|Mark Collie,6.5
+111,4.0,0377092,Mean Girls (2004),Comedy,Mark Waters,Lindsay Lohan|Rachel McAdams|Tina Fey|Tim Meadows,7.0
+111,2.0,0298148,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Musical|Romance,Andrew Adamson|Kelly Asbury|Conrad Vernon,Mike Myers|Eddie Murphy|Cameron Diaz|Julie Andrews,7.2
+111,1.5,0319262,"Day After Tomorrow, The (2004)",Action|Adventure|Drama|Sci-Fi|Thriller,Roland Emmerich,Dennis Quaid|Jake Gyllenhaal|Emmy Rossum|Dash Mihok,6.4
+111,4.0,0304141,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Fantasy|IMAX,Alfonso Cuarón,Daniel Radcliffe|Richard Griffiths|Pam Ferris|Fiona Shaw,7.9
+111,3.0,0374900,Napoleon Dynamite (2004),Comedy,Jared Hess,Jon Heder|Jon Gries|Aaron Ruell|Efren Ramirez,6.9
+111,4.5,0364725,Dodgeball: A True Underdog Story (2004),Comedy,Rawson Marshall Thurber,Vince Vaughn|Christine Taylor|Ben Stiller|Rip Torn,6.7
+111,3.5,0381707,White Chicks (2004),Action|Comedy|Crime,Keenen Ivory Wayans,Shawn Wayans|Marlon Wayans|Jaime King|Frankie Faison,5.5
+111,2.5,0332280,"Notebook, The (2004)",Drama|Romance,Nick Cassavetes,Tim Ivey|Gena Rowlands|Starletta DuPois|James Garner,7.9
+111,4.0,0357413,Anchorman: The Legend of Ron Burgundy (2004),Comedy,Adam McKay,Will Ferrell|Christina Applegate|Paul Rudd|Steve Carell,7.2
+111,4.5,0366551,Harold and Kumar Go to White Castle (2004),Adventure|Comedy,Danny Leiner,John Cho|Ethan Embry|Rob Tinkler|Fred Willard,7.1
+111,3.0,0364751,Without a Paddle (2004),Comedy,Steven Brill,Matthew Price|Andrew Hampton|Jarred Rumbold|Carl Snell,5.9
+111,3.5,0372588,Team America: World Police (2004),Action|Adventure|Animation|Comedy,Trey Parker,Trey Parker|Matt Stone|Kristen Miller|Masasa Moyo,7.2
+111,3.0,0361862,The Machinist (2004),Drama|Mystery|Thriller,Brad Anderson,Christian Bale|Jennifer Jason Leigh|Aitana Sánchez-Gijón|John Sharian,7.7
+111,0.5,0387564,Saw (2004),Horror|Mystery|Thriller,James Wan,Leigh Whannell|Cary Elwes|Danny Glover|Ken Leung,7.6
+111,1.0,0317705,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,Brad Bird,Craig T. Nelson|Holly Hunter|Samuel L. Jackson|Jason Lee,8.0
+111,3.0,0317198,Bridget Jones: The Edge of Reason (2004),Comedy|Drama|Romance,Beeban Kidron,Renée Zellweger|Gemma Jones|Jim Broadbent|James Faulkner,6.0
+111,3.5,0368891,National Treasure (2004),Action|Adventure|Drama|Mystery|Thriller,Jon Turteltaub,Nicolas Cage|Diane Kruger|Justin Bartha|Sean Bean,6.9
+111,4.0,0349903,Ocean's Twelve (2004),Action|Comedy|Crime|Thriller,Steven Soderbergh,Brad Pitt|Catherine Zeta-Jones|George Clooney|Ed Kross,6.5
+111,3.0,0339291,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy,Brad Silberling,Jim Carrey|Liam Aiken|Emily Browning|Kara Hoffman,6.8
+111,1.5,0367594,Charlie and the Chocolate Factory (2005),Adventure|Children|Comedy|Fantasy|IMAX,Tim Burton,Johnny Depp|Freddie Highmore|David Kelly|Helena Bonham Carter,6.6
+111,0.5,0290002,Meet the Fockers (2004),Comedy,Jay Roach,Robert De Niro|Ben Stiller|Dustin Hoffman|Barbra Streisand,6.3
+111,3.5,0372532,"Wedding Date, The (2005)",Comedy|Romance,Clare Kilner,Debra Messing|Dermot Mulroney|Amy Adams|Jack Davenport,6.1
+111,3.5,0386588,Hitch (2005),Comedy|Romance,Andy Tennant,Will Smith|Eva Mendes|Kevin James|Amber Valletta,6.6
+111,3.0,0360486,Constantine (2005),Action|Fantasy|Horror|Thriller,Francis Lawrence,Keanu Reeves|Rachel Weisz|Shia LaBeouf|Djimon Hounsou,7.0
+111,2.5,0372237,Guess Who (2005),Comedy|Romance,Kevin Rodney Sullivan,Bernie Mac|Ashton Kutcher|Zoe Saldana|Judith Scott,5.9
+111,3.0,0332047,Fever Pitch (2005),Comedy|Romance,Bobby Farrelly|Peter Farrelly,Drew Barrymore|Jimmy Fallon|Jason Spevack|Jack Kehler,6.2
+111,3.5,0351283,Madagascar (2005),Adventure|Animation|Children|Comedy,Eric Darnell|Tom McGrath,Ben Stiller|Chris Rock|David Schwimmer|Jada Pinkett Smith,6.9
+111,4.5,0398165,"Longest Yard, The (2005)",Comedy|Drama,Peter Segal,Adam Sandler|Chris Rock|Burt Reynolds|Nelly,6.4
+111,3.5,0356910,Mr. & Mrs. Smith (2005),Action|Adventure|Comedy|Romance,Doug Liman,Brad Pitt|Angelina Jolie|Vince Vaughn|Adam Brody,6.5
+111,2.0,0372784,Batman Begins (2005),Action|Crime|IMAX,Christopher Nolan,Christian Bale|Michael Caine|Liam Neeson|Katie Holmes,8.3
+111,4.5,0396269,Wedding Crashers (2005),Comedy|Romance,David Dobkin,Owen Wilson|Vince Vaughn|Christopher Walken|Rachel McAdams,7.0
+111,2.5,0377818,"Dukes of Hazzard, The (2005)",Action|Adventure|Comedy,Jay Chandrasekhar,Johnny Knoxville|Seann William Scott|Alice Greczyn|Steve Lemme,5.1
+111,2.0,0367652,Deuce Bigalow: European Gigolo (2005),Comedy,Mike Bigelow,Rob Schneider|Eddie Griffin|Jeroen Krabbé|Til Schweiger,4.7
+111,3.5,0405422,"40-Year-Old Virgin, The (2005)",Comedy|Romance,Judd Apatow,Steve Carell|Catherine Keener|Paul Rudd|Romany Malco,7.1
+111,4.0,0355295,"Brothers Grimm, The (2005)",Comedy|Fantasy|Horror|Thriller,Terry Gilliam,Petr Ratimec|Barbora Lukesová|Anna Rust|Jeremy Robson,5.9
+111,5.0,0348333,Waiting... (2005),Comedy,Rob McKittrick,Ryan Reynolds|Anna Faris|Justin Long|David Koechner,6.8
+111,2.5,0121164,Corpse Bride (2005),Animation|Comedy|Fantasy|Musical|Romance,Tim Burton|Mike Johnson,Johnny Depp|Helena Bonham Carter|Emily Watson|Tracey Ullman,7.4
+111,0.5,0432348,Saw II (2005),Horror|Thriller,Darren Lynn Bousman,Tobin Bell|Shawnee Smith|Donnie Wahlberg|Erik Knudsen,6.6
+111,0.5,0436058,American Pie Presents: Band Camp (American Pie 4: Band Camp) (2005),Comedy,Steve Rash,Eugene Levy|Tad Hilgenbrink|Arielle Kebbel|Jason Earles,5.1
+111,4.5,0433400,Just Friends (2005),Comedy|Romance,Roger Kumble,Ryan Reynolds|Amy Smart|Anna Faris|Chris Klein,6.2
+111,4.0,0330373,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller|IMAX,Mike Newell,Eric Sykes|Timothy Spall|David Tennant|Daniel Radcliffe,7.7
+111,4.0,0358273,Walk the Line (2005),Drama|Musical|Romance,James Mangold,Joaquin Phoenix|Reese Witherspoon|Ginnifer Goodwin|Robert Patrick,7.9
+111,3.5,0356680,"Family Stone, The (2005)",Comedy|Drama|Romance,Thomas Bezucha,Claire Danes|Diane Keaton|Rachel McAdams|Dermot Mulroney,6.3
+111,2.5,0398375,Rumor Has It... (2005),Comedy|Drama|Romance,Rob Reiner,Jennifer Aniston|Kevin Costner|Shirley MacLaine|Mark Ruffalo,5.5
+111,3.0,0456554,Grandma's Boy (2006),Comedy,Nicholaus Goossen,Linda Cardellini|Allen Covert|Peter Dante|Shirley Jones,7.0
+111,4.0,0427229,Failure to Launch (2006),Comedy|Romance,Tom Dey,Matthew McConaughey|Sarah Jessica Parker|Zooey Deschanel|Justin Bartha,5.6
+111,3.0,0438097,Ice Age 2: The Meltdown (2006),Adventure|Animation|Children|Comedy,Carlos Saldanha,Ray Romano|John Leguizamo|Denis Leary|Seann William Scott,6.8
+111,2.5,0437863,"Benchwarmers, The (2006)",Comedy,Dennis Dugan,Rob Schneider|David Spade|Jon Heder|Jon Lovitz,5.6
+111,0.5,0362120,Scary Movie 4 (2006),Comedy|Horror,David Zucker,Anna Faris|Regina Hall|Craig Bierko|Bill Pullman,5.1
+111,4.0,0382625,"Da Vinci Code, The (2006)",Drama|Mystery|Thriller,Ron Howard,Tom Hanks|Audrey Tautou|Ian McKellen|Jean Reno,6.6
+111,3.5,0452594,"Break-Up, The (2006)",Comedy|Drama|Romance,Peyton Reed,Vince Vaughn|Jennifer Aniston|Joey Lauren Adams|Cole Hauser,5.8
+111,3.0,0457510,Nacho Libre (2006),Comedy,Jared Hess,Jack Black|Ana de la Reguera|Héctor Jiménez|Darius Rose,5.7
+111,3.0,0389860,Click (2006),Adventure|Comedy|Drama|Fantasy|Romance,Frank Coraci,Adam Sandler|Kate Beckinsale|Christopher Walken|David Hasselhoff,6.4
+111,4.0,0458352,"Devil Wears Prada, The (2006)",Comedy|Drama,David Frankel,Meryl Streep|Anne Hathaway|Emily Blunt|Stanley Tucci,6.9
+111,3.0,0383574,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,Gore Verbinski,Johnny Depp|Orlando Bloom|Keira Knightley|Jack Davenport,7.3
+111,0.5,0385880,Monster House (2006),Animation|Children|Fantasy|Mystery,Gil Kenan,Ryan Whitney Newman|Steve Buscemi|Mitchel Musso|Catherine O'Hara,6.6
+111,5.0,0415306,Talladega Nights: The Ballad of Ricky Bobby (2006),Action|Comedy,Adam McKay,Will Ferrell|John C. Reilly|Sacha Baron Cohen|Gary Cole,6.6
+111,3.5,0477347,Night at the Museum (2006),Action|Comedy|Fantasy|IMAX,Shawn Levy,Ben Stiller|Carla Gugino|Dick Van Dyke|Mickey Rooney,6.4
+111,4.0,0455967,John Tucker Must Die (2006),Comedy|Romance,Betty Thomas,Jesse Metcalfe|Brittany Snow|Ashanti|Sophia Bush,5.8
+111,3.5,0384793,Accepted (2006),Comedy,Steve Pink,Justin Long|Jonah Hill|Adam Herschman|Columbus Short,6.5
+111,3.5,0443543,"Illusionist, The (2006)",Drama|Fantasy|Mystery|Romance,Neil Burger,Edward Norton|Paul Giamatti|Jessica Biel|Rufus Sewell,7.6
+111,4.5,0486551,Beerfest (2006),Comedy,Jay Chandrasekhar,M.C. Gainey|Paul Soter|Erik Stolhanske|Cloris Leachman,6.3
+111,1.5,0387808,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,Mike Judge,Luke Wilson|Maya Rudolph|Dax Shepard|Terry Crews,6.6
+111,5.0,0493430,Jackass Number Two (2006),Comedy|Documentary,Jeff Tremaine,Johnny Knoxville|Bam Margera|Steve-O|Chris Pontius,7.1
+111,2.5,0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,Larry Charles,Sacha Baron Cohen|Ken Davitian|Luenell|Chester,7.3
+111,3.0,0457430,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,Guillermo del Toro,Ivana Baquero|Sergi López|Maribel Verdú|Doug Jones,8.2
+111,4.5,0407887,"Departed, The (2006)",Crime|Drama|Thriller,Martin Scorsese,Leonardo DiCaprio|Matt Damon|Jack Nicholson|Mark Wahlberg,8.5
+111,4.0,0424993,Employee of the Month (2006),Comedy,Greg Coolidge,Dane Cook|Jessica Simpson|Dax Shepard|Andy Dick,5.5
+111,4.0,0482571,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,Christopher Nolan,Hugh Jackman|Christian Bale|Michael Caine|Piper Perabo,8.5
+111,4.5,0457939,"Holiday, The (2006)",Comedy|Romance,Nancy Meyers,Cameron Diaz|Kate Winslet|Jude Law|Jack Black,6.9
+111,4.0,0365830,Tenacious D in The Pick of Destiny (2006),Adventure|Comedy|Musical,Liam Lynch,Jack Black|Kyle Gass|JR Reed|Ronnie James Dio,6.8
+111,0.5,0808146,American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006),Comedy|Romance,Joe Nussbaum,John White|Maria Ricossa|Christopher McDonald|Joe Bostick,5.2
+111,3.0,0382932,Ratatouille (2007),Animation|Children|Drama,Brad Bird|Jan Pinkava(co-director),Patton Oswalt|Ian Holm|Lou Romano|Brian Dennehy,8.0
+111,0.5,0481369,"Number 23, The (2007)",Drama|Mystery|Thriller,Joel Schumacher,Jim Carrey|Virginia Madsen|Logan Lerman|Danny Huston,6.4
+111,3.0,0486946,Wild Hogs (2007),Adventure|Comedy,Walt Becker,Tim Allen|John Travolta|Martin Lawrence|William H. Macy,5.9
+111,4.0,0416449,300 (2007),Action|Fantasy|War|IMAX,Zack Snyder,Gerard Butler|Lena Headey|Dominic West|David Wenham,7.7
+111,3.0,0822854,Shooter (2007),Action|Drama|Thriller,Antoine Fuqua,Mark Wahlberg|Michael Peña|Danny Glover|Kate Mara,7.2
+111,3.5,0445934,Blades of Glory (2007),Comedy|Romance,Josh Gordon|Will Speck,Will Ferrell|Jon Heder|Will Arnett|Amy Poehler,6.3
+111,3.0,0462322,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie,Kurt Russell|Zoë Bell|Rosario Dawson|Vanessa Ferlito,7.6
+111,3.5,0478311,Knocked Up (2007),Comedy|Drama|Romance,Judd Apatow,Seth Rogen|Katherine Heigl|Paul Rudd|Leslie Mann,7.0
+111,2.0,0413267,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,Chris Miller|Raman Hui(co-director),Mike Myers|Eddie Murphy|Cameron Diaz|Antonio Banderas,6.1
+111,3.5,0449088,Pirates of the Caribbean: At World's End (2007),Action|Adventure|Comedy|Fantasy,Gore Verbinski,Johnny Depp|Geoffrey Rush|Orlando Bloom|Keira Knightley,7.1
+111,3.5,0496806,Ocean's Thirteen (2007),Crime|Thriller,Steven Soderbergh,George Clooney|Brad Pitt|Matt Damon|Michael Mantell,6.9
+111,3.5,0423294,Surf's Up (2007),Animation|Children|Comedy,Ash Brannon|Chris Buck,Shia LaBeouf|Jeff Bridges|Zooey Deschanel|Jon Heder,6.7
+111,3.0,1028528,Death Proof (2007),Action|Adventure|Crime|Horror|Thriller,Quentin Tarantino,Kurt Russell|Zoë Bell|Rosario Dawson|Vanessa Ferlito,7.0
+111,0.5,0450385,1408 (2007),Drama|Horror|Thriller,Mikael Håfström,John Cusack|Paul Birchard|Margot Leicester|Walter Lewis,6.8
+111,2.0,0413099,Evan Almighty (2007),Comedy|Fantasy,Tom Shadyac,Steve Carell|Morgan Freeman|Lauren Graham|Johnny Simmons,5.4
+111,4.0,0373889,Harry Potter and the Order of the Phoenix (2007),Adventure|Drama|Fantasy|IMAX,David Yates,Daniel Radcliffe|Harry Melling|Jason Boyd|Richard Macklin,7.5
+111,4.5,0762107,I Now Pronounce You Chuck and Larry (2007),Comedy|Romance,Dennis Dugan,Adam Sandler|Kevin James|Jessica Biel|Dan Aykroyd,6.0
+111,4.0,0445922,Across the Universe (2007),Drama|Fantasy|Musical|Romance,Julie Taymor,Evan Rachel Wood|Jim Sturgess|Joe Anderson|Dana Fuchs,7.4
+111,3.0,0440963,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,Paul Greengrass,Matt Damon|Julia Stiles|David Strathairn|Scott Glenn,8.0
+111,4.5,0829482,Superbad (2007),Comedy,Greg Mottola,Jonah Hill|Michael Cera|Christopher Mintz-Plasse|Bill Hader,7.6
+111,3.5,0424823,Balls of Fury (2007),Comedy,Robert Ben Garant,Dan Fogler|Christopher Walken|George Lopez|Maggie Q,5.3
+111,3.0,1077258,Planet Terror (2007),Action|Horror|Sci-Fi,Robert Rodriguez,Rose McGowan|Freddy Rodríguez|Josh Brolin|Marley Shelton,7.1
+111,4.5,0452625,Good Luck Chuck (2007),Comedy|Romance,Mark Helfrich,Connor Price|Troy Gentile|Mackenzie Mowat|Sasha Pieterse,5.6
+111,2.5,0408839,"Heartbreak Kid, The (2007)",Comedy|Drama|Romance,Bobby Farrelly|Peter Farrelly,Ben Stiller|Malin Akerman|Michelle Monaghan|Jerry Stiller,5.8
+111,4.0,0465538,Michael Clayton (2007),Drama|Thriller,Tony Gilroy,Tom Wilkinson|Michael O'Keefe|Sydney Pollack|Danielle Skraastad,7.3
+111,3.0,0426931,August Rush (2007),Drama|Musical,Kirsten Sheridan,Freddie Highmore|Keri Russell|Jonathan Rhys Meyers|Terrence Howard,7.5
+111,2.5,0480249,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX,Francis Lawrence,Will Smith|Alice Braga|Charlie Tahan|Salli Richardson-Whitfield,7.2
+111,3.5,0408236,Sweeney Todd: The Demon Barber of Fleet Street (2007),Drama|Horror|Musical|Thriller,Tim Burton,Johnny Depp|Helena Bonham Carter|Alan Rickman|Timothy Spall,7.4
+111,3.5,0465234,National Treasure: Book of Secrets (2007),Action|Adventure,Jon Turteltaub,Nicolas Cage|Justin Bartha|Diane Kruger|Jon Voight,6.5
+111,2.5,0841046,Walk Hard: The Dewey Cox Story (2007),Comedy|Musical,Jake Kasdan,Nat Faxon|John C. Reilly|Tim Meadows|Conner Rayburn,6.8
+111,2.5,0988595,27 Dresses (2008),Comedy|Romance,Anne Fletcher,Brian Kerwin|Charli Barcena|Peyton List|Jane Pfitsch,6.1
+111,3.5,0770752,Fool's Gold (2008),Action|Adventure|Comedy|Romance,Andy Tennant,Matthew McConaughey|Kate Hudson|Donald Sutherland|Alexis Dziena,5.7
+111,3.5,0839980,Semi-Pro (2008),Comedy,Kent Alterman,Will Ferrell|Woody Harrelson|André Benjamin|Maura Tierney,5.8
+111,4.0,0468569,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,Christopher Nolan,Christian Bale|Heath Ledger|Aaron Eckhart|Michael Caine,9.0
+111,5.0,0800039,Forgetting Sarah Marshall (2008),Comedy|Romance,Nicholas Stoller,Jason Segel|Kristen Bell|Mila Kunis|Russell Brand,7.2
+111,3.0,0481536,Harold & Kumar Escape from Guantanamo Bay (2008),Adventure|Comedy,Jon Hurwitz|Hayden Schlossberg,John Cho|Kal Penn|Rob Corddry|Jack Conley,6.6
+111,4.0,1111833,Super High Me (2007),Comedy|Documentary,Michael Blieden,Brian Unger|Gary Cohan|Robert Gore|Sean Tabibian,6.1
+111,4.0,0871426,Baby Mama (2008),Comedy,Michael McCullers,Amy Poehler|Tina Fey|Greg Kinnear|Dax Shepard,6.0
+111,2.0,0371746,Iron Man (2008),Action|Adventure|Sci-Fi,Jon Favreau,Robert Downey Jr.|Terrence Howard|Jeff Bridges|Gwyneth Paltrow,7.9
+111,3.5,0866439,Made of Honor (2008),Comedy|Romance,Paul Weiland,Patrick Dempsey|Michelle Monaghan|Kevin McKidd|Kadeem Hardison,5.9
+111,2.5,1000774,Sex and the City (2008),Comedy|Romance,Michael Patrick King,Sarah Jessica Parker|Kim Cattrall|Kristin Davis|Cynthia Nixon,5.6
+111,2.5,0441773,Kung Fu Panda (2008),Action|Animation|Children|Comedy|IMAX,Mark Osborne|John Stevenson,Jack Black|Dustin Hoffman|Angelina Jolie|Ian McShane,7.6
+111,3.5,0910970,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,Andrew Stanton,Ben Burtt|Elissa Knight|Jeff Garlin|Fred Willard,8.4
+111,4.0,0493464,Wanted (2008),Action|Thriller,Timur Bekmambetov,James McAvoy|Morgan Freeman|Angelina Jolie|Terence Stamp,6.7
+111,3.0,0425061,Get Smart (2008),Action|Comedy,Peter Segal,Steve Carell|Anne Hathaway|Dwayne Johnson|Alan Arkin,6.5
+111,5.0,0838283,Step Brothers (2008),Comedy,Adam McKay,Will Ferrell|John C. Reilly|Mary Steenburgen|Richard Jenkins,6.9
+111,5.0,0910936,Pineapple Express (2008),Action|Comedy|Crime,David Gordon Green,Seth Rogen|James Franco|Danny McBride|Kevin Corrigan,7.0
+111,3.5,0942385,Tropic Thunder (2008),Action|Adventure|Comedy|War,Ben Stiller,Jeff Kahn|Robert Downey Jr.|Anthony Ruivivar|Jack Black,7.0
+111,3.5,0852713,"House Bunny, The (2008)",Comedy,Fred Wolf,Anna Faris|Colin Hanks|Emma Stone|Kat Dennings,5.5
+111,4.0,1031969,"Rocker, The (2008)",Comedy,Peter Cattaneo,Rainn Wilson|Christina Applegate|Teddy Geiger|Josh Gad,6.2
+111,2.5,0887883,Burn After Reading (2008),Comedy|Crime|Drama,Ethan Coen|Joel Coen,George Clooney|Frances McDormand|Brad Pitt|John Malkovich,7.0
+111,3.0,0981227,Nick and Norah's Infinite Playlist (2008),Comedy|Drama|Romance,Peter Sollett,Michael Cera|Kat Dennings|Aaron Yoo|Rafi Gavron,6.7
+111,3.5,1007028,Zack and Miri Make a Porno (2008),Comedy|Drama|Romance,Kevin Smith,Elizabeth Banks|Seth Rogen|Craig Robinson|Gerry Bednob,6.6
+111,4.5,1046163,My Best Friend's Girl (2008),Comedy|Romance,Howard Deutch,Dane Cook|Kate Hudson|Alec Baldwin|Jason Biggs,5.9
+111,4.0,0430922,Role Models (2008),Comedy,David Wain,Seann William Scott|Paul Rudd|Christopher Mintz-Plasse|Bobb'e J. Thompson,6.8
+111,4.5,1135985,Sex Drive (2008),Comedy,Sean Anders,Josh Zuckerman|Amanda Crew|Clark Duke|James Marsden,6.5
+111,1.5,1099212,Twilight (2008),Drama|Fantasy|Romance|Thriller,Catherine Hardwicke,Kristen Stewart|Sarah Clarke|Matt Bushell|Billy Burke,5.2
+111,3.5,0369436,Four Christmases (2008),Comedy,Seth Gordon,Vince Vaughn|Reese Witherspoon|Robert Duvall|Sissy Spacek,5.7
+111,4.0,1125849,"Wrestler, The (2008)",Drama,Darren Aronofsky,Mickey Rourke|Marisa Tomei|Evan Rachel Wood|Mark Margolis,7.9
+111,4.0,0960731,Bedtime Stories (2008),Adventure|Children|Comedy,Adam Shankman,Adam Sandler|Keri Russell|Guy Pearce|Russell Brand,6.1
+111,3.5,1034303,Defiance (2008),Drama|Thriller|War,Edward Zwick,Daniel Craig|Liev Schreiber|Jamie Bell|Alexa Davalos,7.2
+111,2.5,0822832,Marley & Me (2008),Comedy|Drama,David Frankel,Owen Wilson|Jennifer Aniston|Eric Dane|Kathleen Turner,7.1
+111,3.5,0901476,Bride Wars (2009),Comedy|Romance,Gary Winick,Kate Hudson|Anne Hathaway|Bryan Greenberg|Chris Pratt,5.5
+111,2.5,1001508,He's Just Not That Into You (2009),Comedy|Drama|Romance,Ken Kwapis,Morgan Lily|Trenton Rogers|Michelle Carmichael|Jasmine Woods,6.4
+111,3.5,1155056,"I Love You, Man (2009)",Comedy,John Hamburg,Paul Rudd|Rashida Jones|Sarah Burns|Greg Levine,7.0
+111,3.0,1132620,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",Crime|Drama|Mystery|Thriller,Niels Arden Oplev,Michael Nyqvist|Noomi Rapace|Lena Endre|Sven-Bertil Taube,7.8
+111,4.5,0361748,Inglourious Basterds (2009),Action|Drama|War,Quentin Tarantino|Eli Roth,Brad Pitt|Mélanie Laurent|Christoph Waltz|Eli Roth,8.3
+111,4.0,0808151,Angels & Demons (2009),Crime|Drama|Mystery|Thriller,Ron Howard,Tom Hanks|Ewan McGregor|Ayelet Zurer|Stellan Skarsgård,6.7
+111,4.0,1049413,Up (2009),Adventure|Animation|Children|Drama,Pete Docter|Bob Peterson(co-director),Edward Asner|Christopher Plummer|Jordan Nagai|Bob Peterson,8.3
+111,4.5,1119646,"Hangover, The (2009)",Comedy|Crime,Todd Phillips,Bradley Cooper|Ed Helms|Zach Galifianakis|Justin Bartha,7.7
+111,3.5,1041829,"Proposal, The (2009)",Comedy|Romance,Anne Fletcher,Sandra Bullock|Ryan Reynolds|Mary Steenburgen|Craig T. Nelson,6.7
+111,4.0,1045778,Year One (2009),Adventure|Comedy,Harold Ramis,Jack Black|Michael Cera|Oliver Platt|David Cross,4.9
+111,4.0,0417741,Harry Potter and the Half-Blood Prince (2009),Adventure|Fantasy|Mystery|Romance|IMAX,David Yates,Daniel Radcliffe|Michael Gambon|Dave Legeno|Elarica Johnson,7.6
+111,3.0,1142988,"Ugly Truth, The (2009)",Comedy|Drama|Romance,Robert Luketic,Katherine Heigl|Gerard Butler|Bree Turner|Eric Winter,6.5
+111,4.0,1092633,"Goods: Live Hard, Sell Hard, The (2009)",Comedy,Neal Brennan,Jeremy Piven|Ving Rhames|James Brolin|David Koechner,5.8
+111,3.5,1151922,Miss March (2009),Comedy,Zach Cregger|Trevor Moore,Zach Cregger|Trevor Moore|Raquel Alessi|Molly Stanton,5.0
+111,1.5,0472033,9 (2009),Adventure|Animation|Sci-Fi,Shane Acker,Christopher Plummer|Martin Landau|John C. Reilly|Crispin Glover,7.1
+111,0.5,1131734,Jennifer's Body (2009),Comedy|Horror|Sci-Fi|Thriller,Karyn Kusama,Megan Fox|Amanda Seyfried|Johnny Simmons|Adam Brody,5.2
+111,3.5,1156398,Zombieland (2009),Action|Comedy|Horror,Ruben Fleischer,Jesse Eisenberg|Woody Harrelson|Emma Stone|Abigail Breslin,7.6
+111,4.5,1078940,Couples Retreat (2009),Comedy|Romance,Peter Billingsley,Vince Vaughn|Jason Bateman|Faizon Love|Jon Favreau,5.5
+111,3.0,1197624,Law Abiding Citizen (2009),Drama|Thriller,F. Gary Gray,Jamie Foxx|Gerard Butler|Colm Meaney|Bruce McGill,7.4
+111,5.0,1300851,"Boondock Saints II: All Saints Day, The (2009)",Action|Crime|Drama|Thriller,Troy Duffy,Sean Patrick Flanery|Norman Reedus|Billy Connolly|Clifton Collins Jr.,6.3
+111,1.5,1259571,"Twilight Saga: New Moon, The (2009)",Drama|Fantasy|Horror|Romance|Thriller,Chris Weitz,Kristen Stewart|Christina Jastrzembska|Robert Pattinson|Billy Burke,4.7
+111,2.0,0499549,Avatar (2009),Action|Adventure|Sci-Fi|IMAX,James Cameron,Sam Worthington|Zoe Saldana|Sigourney Weaver|Stephen Lang,7.8
+111,3.5,0988045,Sherlock Holmes (2009),Action|Crime|Mystery|Thriller,Guy Ritchie,Robert Downey Jr.|Jude Law|Rachel McAdams|Mark Strong,7.6
+111,2.0,1038686,Legion (2010),Action|Fantasy|Horror|Thriller,Scott Stewart,Paul Bettany|Lucas Black|Tyrese Gibson|Adrianne Palicki,5.2
+111,4.0,1185416,When in Rome (2010),Comedy|Romance,Mark Steven Johnson,Kristen Bell|Josh Duhamel|Anjelica Huston|Danny DeVito,5.6
+111,2.5,1045772,I Love You Phillip Morris (2009),Comedy|Drama|Romance,Glenn Ficarra|John Requa,Jim Carrey|Ewan McGregor|Leslie Mann|Rodrigo Santoro,6.6
+111,3.5,1130884,Shutter Island (2010),Drama|Mystery|Thriller,Martin Scorsese,Leonardo DiCaprio|Mark Ruffalo|Ben Kingsley|Max von Sydow,8.1
+111,5.0,1385867,Cop Out (2010),Action|Comedy|Crime,Kevin Smith,Bruce Willis|Tracy Morgan|Juan Carlos Hernández|Cory Fernandez,5.6
+111,3.5,0815236,She's Out of My League (2010),Comedy,Jim Field Smith,Jay Baruchel|Alice Eve|T.J. Miller|Mike Vogel,6.4
+111,3.0,1038919,"Bounty Hunter, The (2010)",Action|Comedy|Romance,Andy Tennant,Gerard Butler|Jennifer Aniston|Gio Perez|Joel Marsh Garland,5.6
+111,4.5,1231587,Hot Tub Time Machine (2010),Comedy|Sci-Fi,Steve Pink,John Cusack|Clark Duke|Craig Robinson|Rob Corddry,6.4
+111,3.5,1250777,Kick-Ass (2010),Action|Comedy,Matthew Vaughn,Aaron Taylor-Johnson|Garrett M. Brown|Evan Peters|Deborah Twiss,7.6
+111,3.0,1279935,Date Night (2010),Action|Comedy|Romance,Shawn Levy,Steve Carell|Tina Fey|Mark Wahlberg|Taraji P. Henson,6.3
+111,1.5,1261945,Sex and the City 2 (2010),Comedy|Drama|Romance,Michael Patrick King,Sarah Jessica Parker|Kristin Davis|Cynthia Nixon|Kim Cattrall,4.4
+111,5.0,1226229,Get Him to the Greek (2010),Comedy,Nicholas Stoller,Russell Brand|Rose Byrne|Tyler McKinney|Zoe Salmon,6.4
+111,1.5,1325004,"Twilight Saga: Eclipse, The (2010)",Fantasy|Romance|Thriller|IMAX,David Slade,Xavier Samuel|Kristen Stewart|Robert Pattinson|Billy Burke,5.0
+111,3.5,1323594,Despicable Me (2010),Animation|Children|Comedy|Crime,Pierre Coffin|Chris Renaud,Steve Carell|Jason Segel|Russell Brand|Julie Andrews,7.7
+111,4.5,1375666,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,Christopher Nolan,Leonardo DiCaprio|Joseph Gordon-Levitt|Ellen Page|Tom Hardy,8.8
+111,5.0,1375670,Grown Ups (2010),Comedy,Dennis Dugan,Adam Sandler|Kevin James|Chris Rock|David Spade,6.0
+111,3.0,0427152,Dinner for Schmucks (2010),Comedy,Jay Roach,Steve Carell|Paul Rudd|Zach Galifianakis|Jemaine Clement,5.9
+111,3.0,1386588,"Other Guys, The (2010)",Action|Comedy,Adam McKay,Will Ferrell|Derek Jeter|Mark Wahlberg|Eva Mendes,6.7
+111,3.5,0446029,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Musical|Romance,Edgar Wright,Michael Cera|Kieran Culkin|Anna Kendrick|Alison Pill,7.5
+111,5.0,1117523,Jackass 2.5 (2007),Comedy|Documentary,Jeff Tremaine,Johnny Knoxville|Bam Margera|Preston Lacy|Dave England,6.5
+111,3.0,0889573,"Switch, The (2010)",Comedy|Romance,Josh Gordon|Will Speck,Jason Bateman|Victor Pagan|Jennifer Aniston|Jeff Goldblum,6.1
+111,3.5,1285016,"Social Network, The (2010)",Drama,David Fincher,Jesse Eisenberg|Rooney Mara|Bryan Barter|Dustin Fitzsimons,7.7
+111,3.0,0840361,"Town, The (2010)",Crime|Drama|Thriller,Ben Affleck,Ben Affleck|Rebecca Hall|Jon Hamm|Jeremy Renner,7.6
+111,5.0,1116184,Jackass 3D (2010),Action|Comedy|Documentary,Jeff Tremaine,Johnny Knoxville|Bam Margera|Ryan Dunn|Steve-O,7.0
+111,4.0,1245526,Red (2010),Action|Comedy,Robert Schwentke,Bruce Willis|Mary-Louise Parker|Heidi von Palleske|Jefferson Brown,7.1
+111,3.5,1231583,Due Date (2010),Comedy,Todd Phillips,Robert Downey Jr.|Zach Galifianakis|Michelle Monaghan|Jamie Foxx,6.6
+111,2.0,1001526,Megamind (2010),Action|Animation|Children|Comedy|Sci-Fi|IMAX,Tom McGrath,Will Ferrell|Brad Pitt|Tina Fey|Jonah Hill,7.3
+111,3.5,0947798,Black Swan (2010),Drama|Thriller,Darren Aronofsky,Natalie Portman|Mila Kunis|Vincent Cassel|Barbara Hershey,8.0
+111,4.0,0926084,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy|IMAX,David Yates,Bill Nighy|Emma Watson|Richard Griffiths|Harry Melling,7.7
+111,1.5,0398286,Tangled (2010),Animation|Children|Comedy|Fantasy|Musical|Romance|IMAX,Nathan Greno|Byron Howard,Mandy Moore|Zachary Levi|Donna Murphy|Ron Perlman,7.8
+111,1.0,0970866,Little Fockers (2010),Comedy,Paul Weitz,Robert De Niro|Ben Stiller|Owen Wilson|Dustin Hoffman,5.5
+111,3.0,1465522,Tucker & Dale vs Evil (2010),Comedy|Horror,Eli Craig,Tyler Labine|Alan Tudyk|Katrina Bowden|Jesse Moss,7.6
+111,3.5,0990407,"Green Hornet, The (2011)",Action|Comedy|Crime|Fantasy|Thriller|IMAX,Michel Gondry,Seth Rogen|Jay Chou|Cameron Diaz|Tom Wilkinson,5.8
+111,3.0,1219289,Limitless (2011),Sci-Fi|Thriller,Neil Burger,Bradley Cooper|Robert De Niro|Abbie Cornish|Andrew Howard,7.4
+111,2.5,1411238,No Strings Attached (2011),Comedy|Romance,Ivan Reitman,Natalie Portman|Ashton Kutcher|Kevin Kline|Cary Elwes,6.2
+111,3.0,1092026,Paul (2011),Adventure|Comedy|Sci-Fi,Greg Mottola,Mia Stallard|Simon Pegg|Nick Frost|Jeremy Owen,7.0
+111,4.0,0480687,Hall Pass (2011),Comedy,Bobby Farrelly|Peter Farrelly,Owen Wilson|Jason Sudeikis|Jenna Fischer|Christina Applegate,5.9
+111,5.0,1564367,Just Go with It (2011),Comedy|Romance,Dennis Dugan,Adam Sandler|Jennifer Aniston|Nicole Kidman|Nick Swardson,6.4
+111,4.0,1701991,Family Guy Presents: It's a Trap (2010),Animation|Comedy|Sci-Fi,Peter Shin|James Purdum,Seth MacFarlane|Alex Borstein|Seth Green|Mila Kunis,7.3
+111,3.5,1334512,Arthur (2011),Comedy,Jason Winer,Russell Brand|Helen Mirren|Greta Gerwig|Jennifer Garner,5.7
+111,4.5,1478338,Bridesmaids (2011),Comedy,Paul Feig,Kristen Wiig|Terry Crews|Maya Rudolph|Tom Yi,6.8
+111,3.0,1298650,Pirates of the Caribbean: On Stranger Tides (2011),Action|Adventure|Fantasy|IMAX,Rob Marshall,Johnny Depp|Penélope Cruz|Geoffrey Rush|Ian McShane,6.6
+111,3.5,1411697,"Hangover Part II, The (2011)",Comedy,Todd Phillips,Bradley Cooper|Ed Helms|Zach Galifianakis|Justin Bartha,6.5
+111,3.0,1396218,Mr. Popper's Penguins (2011),Comedy,Mark Waters,Jim Carrey|Carla Gugino|Angela Lansbury|Ophelia Lovibond,6.0
+111,3.5,1284575,Bad Teacher (2011),Comedy,Jake Kasdan,Cameron Diaz|Lucy Punch|Jason Segel|Justin Timberlake,5.7
+111,5.0,1240982,Your Highness (2011),Action|Adventure|Comedy|Fantasy,David Gordon Green,Danny McBride|James Franco|Rasmus Hardiker|Natalie Portman,5.5
+111,4.5,1222817,Zookeeper (2011),Comedy,Frank Coraci,Kevin James|Rosario Dawson|Leslie Bibb|Ken Jeong,5.2
+111,4.0,1499658,Horrible Bosses (2011),Comedy|Crime,Seth Gordon,Jason Bateman|Steve Wiebe|Kevin Spacey|Charlie Day,6.9
+111,4.0,1201607,Harry Potter and the Deathly Hallows: Part 2 (2011),Action|Adventure|Drama|Fantasy|Mystery|IMAX,David Yates,Ralph Fiennes|Michael Gambon|Alan Rickman|Daniel Radcliffe,8.1
+111,3.0,1632708,Friends with Benefits (2011),Comedy|Romance,Will Gluck,Justin Timberlake|Mila Kunis|Patricia Clarkson|Jenna Elfman,6.6
+111,3.5,1488555,"Change-Up, The (2011)",Comedy,David Dobkin,Ryan Reynolds|Jason Bateman|Leslie Mann|Olivia Wilde,6.3
+111,1.5,1324999,"Twilight Saga: Breaking Dawn - Part 1, The (2011)",Adventure|Drama|Fantasy|Romance,Bill Condon,Taylor Lautner|Gil Birmingham|Billy Burke|Sarah Clarke,4.9
+111,4.5,1366344,"Sitter, The (2011)",Comedy,David Gordon Green,Jonah Hill|Max Records|Ari Graynor|J.B. Smoove,5.7
+111,3.5,1345836,"Dark Knight Rises, The (2012)",Action|Adventure|Crime|IMAX,Christopher Nolan,Christian Bale|Gary Oldman|Tom Hardy|Joseph Gordon-Levitt,8.4
+111,4.0,1515091,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller,Guy Ritchie,Robert Downey Jr.|Jude Law|Noomi Rapace|Rachel McAdams,7.5
+111,3.5,1568346,"Girl with the Dragon Tattoo, The (2011)",Drama|Thriller,David Fincher,Daniel Craig|Rooney Mara|Christopher Plummer|Stellan Skarsgård,7.8
+111,3.0,1598828,One for the Money (2012),Action|Comedy|Crime,Julie Anne Robinson,Katherine Heigl|Jason O'Mara|Daniel Sunjata|John Leguizamo,5.3
+111,1.5,1636826,Project X (2012),Comedy,Nima Nourizadeh,Thomas Mann|Oliver Cooper|Jonathan Daniel Brown|Dax Flame,6.7
+111,3.5,1596350,This Means War (2012),Action|Comedy|Romance,McG,Reese Witherspoon|Chris Pine|Tom Hardy|Til Schweiger,6.3
+111,4.5,1456635,Goon (2011),Comedy|Drama,Michael Dowse,Seann William Scott|Jay Baruchel|Alison Pill|Liev Schreiber,6.8
+111,5.0,1232829,21 Jump Street (2012),Action|Comedy|Crime,Phil Lord|Christopher Miller,Jonah Hill|Channing Tatum|Brie Larson|Dave Franco,7.2
+111,1.5,1605630,American Reunion (American Pie 4) (2012),Comedy,Jon Hurwitz|Hayden Schlossberg,Jason Biggs|Alyson Hannigan|Chris Klein|Thomas Ian Nicholas,6.7
+111,4.0,1077368,Dark Shadows (2012),Comedy|Horror|IMAX,Tim Burton,Johnny Depp|Michelle Pfeiffer|Helena Bonham Carter|Eva Green,6.2
+111,1.0,1409024,Men in Black III (M.III.B.) (M.I.B.³) (2012),Action|Comedy|Sci-Fi|IMAX,Barry Sonnenfeld,Will Smith|Tommy Lee Jones|Josh Brolin|Jemaine Clement,6.8
+111,4.5,1655460,Wanderlust (2012),Comedy,David Wain,Paul Rudd|Jennifer Aniston|Justin Theroux|Alan Alda,5.6
+111,2.5,1637725,Ted (2012),Comedy|Fantasy,Seth MacFarlane,Mark Wahlberg|Mila Kunis|Seth MacFarlane|Joel McHale,6.9
+111,3.0,1667889,Ice Age 4: Continental Drift (2012),Adventure|Animation|Comedy,Steve Martino|Mike Thurmeier,Aziz Ansari|Joy Behar|Christopher Campbell|Alain Chabat,6.6
+111,4.0,1298649,"Watch, The (2012)",Comedy|Sci-Fi,Akiva Schaffer,Ben Stiller|Vince Vaughn|Jonah Hill|Richard Ayoade,5.7
+111,3.0,1790886,"Campaign, The (2012)",Comedy,Jay Roach,Will Ferrell|Zach Galifianakis|Jason Sudeikis|Dylan McDermott,6.1
+111,3.5,1212450,Lawless (2012),Crime|Drama,John Hillcoat,Shia LaBeouf|Tom Hardy|Jason Clarke|Guy Pearce,7.3
+111,4.5,1981677,Pitch Perfect (2012),Comedy|Musical,Jason Moore,Anna Kendrick|Skylar Astin|Ben Platt|Brittany Snow,7.2
+111,4.0,1232200,That's My Boy (2012),Comedy,Sean Anders,Adam Sandler|Andy Samberg|Leighton Meester|Vanilla Ice,5.6
+111,2.0,1142977,Frankenweenie (2012),Animation|Comedy|Horror|IMAX,Tim Burton,Catherine O'Hara|Martin Short|Martin Landau|Charlie Tahan,7.0
+111,3.5,1648179,Here Comes the Boom (2012),Action|Comedy,Frank Coraci,Kevin James|Salma Hayek|Henry Winkler|Greg Germann,6.4
+111,3.5,1772341,Wreck-It Ralph (2012),Animation|Comedy,Rich Moore,John C. Reilly|Sarah Silverman|Jack McBrayer|Jane Lynch,7.7
+111,5.0,1753968,Jackass 3.5 (2011),Comedy|Documentary,Jeff Tremaine,Johnny Knoxville|Ryan Dunn|Bam Margera|Steve-O,6.8
+111,1.5,1673434,"Twilight Saga: Breaking Dawn - Part 2, The (2012)",Adventure|Drama|Fantasy|Romance|IMAX,Bill Condon,Kristen Stewart|Robert Pattinson|Taylor Lautner|Peter Facinelli,5.5
+111,2.0,1588173,Warm Bodies (2013),Comedy|Horror|Romance,Jonathan Levine,Nicholas Hoult|Teresa Palmer|Analeigh Tipton|Rob Corddry,6.9
+111,4.0,1853728,Django Unchained (2012),Action|Drama|Western,Quentin Tarantino,Jamie Foxx|Christoph Waltz|Leonardo DiCaprio|Kerry Washington,8.4
+111,3.0,1758830,This Is 40 (2012),Drama,Judd Apatow,Paul Rudd|Leslie Mann|Maude Apatow|Iris Apatow,6.2
+111,2.0,1333125,Movie 43 (2013),Comedy,Elizabeth Banks|Steven Brill|Steve Carr|Rusty Cundieff|James Duffy|Griffin Dunne|Peter Farrelly|Patrik Forsberg|Will Graham|James Gunn|Brett Ratner|Jonathan van Tulleken|Bob Odenkirk,Dennis Quaid|Greg Kinnear|Common|Charlie Saxton,4.3
+111,4.5,2274356,Jim Jefferies: Fully Functional (EPIX) (2012),Comedy,Jay Karas,Jim Jefferies,8.1
+111,4.5,2024432,Identity Thief (2013),Comedy|Crime,Seth Gordon,Jason Bateman|Melissa McCarthy|Jon Favreau|Amanda Peet,5.7
+111,4.5,1711425,21 and Over (2013),Comedy,Jon Lucas|Scott Moore,Miles Teller|Skylar Astin|Justin Chon|Sarah Wright,5.9
+111,3.5,0481499,"Croods, The (2013)",Adventure|Animation|Comedy,Kirk DeMicco|Chris Sanders,Nicolas Cage|Emma Stone|Ryan Reynolds|Catherine Keener,7.2
+111,4.5,1245492,This Is the End (2013),Action|Comedy,Evan Goldberg|Seth Rogen,James Franco|Jonah Hill|Seth Rogen|Jay Baruchel,6.6
+111,3.5,1343092,"Great Gatsby, The (2013)",Drama,Baz Luhrmann,Lisa Adam|Frank Aldridge|Amitabh Bachchan|Steve Bisley,7.3
+111,4.5,2234155,"Internship, The (2013)",Comedy,Shawn Levy,Vince Vaughn|Owen Wilson|Rose Byrne|Aasif Mandvi,6.3
+111,3.5,1951261,"Hangover Part III, The (2013)",Comedy,Todd Phillips,Bradley Cooper|Ed Helms|Zach Galifianakis|Justin Bartha,5.8
+111,3.5,0848537,Epic (2013),Adventure|Animation|Fantasy,Chris Wedge,Blake Anderson|Aziz Ansari|Allison Bills|Jim Conroy,6.7
+111,5.0,1670345,Now You See Me (2013),Crime|Mystery|Thriller,Louis Leterrier,Jesse Eisenberg|Mark Ruffalo|Woody Harrelson|Isla Fisher,7.3
+111,4.0,1690953,Despicable Me 2 (2013),Animation|Children|Comedy|IMAX,Pierre Coffin|Chris Renaud,Steve Carell|Kristen Wiig|Benjamin Bratt|Miranda Cosgrove,7.4
+111,3.5,2404463,"Heat, The (2013)",Action|Comedy|Crime,Paul Feig,Sandra Bullock|Melissa McCarthy|Demián Bichir|Marlon Wayans,6.6
+111,4.0,1821694,Red 2 (2013),Action|Comedy|Crime|Thriller,Dean Parisot,Bruce Willis|John Malkovich|Mary-Louise Parker|Helen Mirren,6.6
+111,4.5,1723121,We're the Millers (2013),Comedy|Crime,Rawson Marshall Thurber,Jennifer Aniston|Jason Sudeikis|Emma Roberts|Will Poulter,7.0
+111,4.5,2191701,Grown Ups 2 (2013),Comedy,Dennis Dugan,Adam Sandler|Kevin James|Chris Rock|David Spade,5.4
+111,2.5,1650554,Kick-Ass 2 (2013),Action|Comedy|Crime,Jeff Wadlow,Aaron Taylor-Johnson|Chloë Grace Moretz|Morris Chestnut|Claudia Lee,6.6
+111,0.5,2546038,Maria Bamford: The Special Special Special! (2012),Comedy,Jordan Brady,Maria Bamford|Joel Bamford|Marilyn Bamford|Wayne Federman,7.1
+111,5.0,2404311,"Family, The (2013)",Action|Comedy|Crime,Luc Besson,Robert De Niro|Michelle Pfeiffer|Dianna Agron|John D'Leo,6.3
+111,3.0,2387559,Delivery Man (2013),Comedy,Ken Scott,Vince Vaughn|Chris Pratt|Cobie Smulders|Andrzej Blumenfeld,6.4
+111,5.0,0993846,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,Martin Scorsese,Leonardo DiCaprio|Jonah Hill|Margot Robbie|Matthew McConaughey,8.2
+111,3.5,1800241,American Hustle (2013),Crime|Drama,David O. Russell,Christian Bale|Bradley Cooper|Amy Adams|Jeremy Renner,7.2
+111,4.0,0359950,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,Ben Stiller,Ben Stiller|Kristen Wiig|Jon Daly|Kathryn Hahn,7.3
+111,2.5,1229340,Anchorman 2: The Legend Continues (2013),Comedy,Adam McKay,Will Ferrell|Steve Carell|Paul Rudd|David Koechner,6.3
+111,3.5,1408253,Ride Along (2014),Action|Comedy,Tim Story,Ice Cube|Kevin Hart|John Leguizamo|Bruce McGill,6.2
+111,3.0,1559038,GLOW: The Story of the Gorgeous Ladies of Wrestling (2012),Documentary,Brett Whitcomb,Emily Dole|Dee Booher|Angelina Altishin|Jeanne Basone,7.3
+111,2.0,1800246,That Awkward Moment (2014),Comedy|Romance,Tom Gormican,Zac Efron|Miles Teller|Michael B. Jordan|Imogen Poots,6.2
+111,4.0,2246565,"Honest Liar, An (2014)",Comedy|Documentary,Tyler Measom|Justin Weinstein,James Randi|Deyvi Peña|Penn Jillette|Teller,7.5
+111,4.5,2203939,"Other Woman, The (2014)",Comedy|Romance,Nick Cassavetes,Cameron Diaz|Leslie Mann|Nikolaj Coster-Waldau|Don Johnson,6.0
+111,0.5,2828996,"Haunted House 2, A (2014)",Comedy|Horror,Michael Tiddes,Marlon Wayans|Jaime Pressly|Essence Atkins|Gabriel Iglesias,4.7
+111,4.0,2004420,Neighbors (2014),Comedy,Nicholas Stoller,Seth Rogen|Rose Byrne|Elise Vargas|Zoey Vargas,6.3
+111,2.5,2463288,Walk of Shame (2014),Comedy,Steven Brill,Elizabeth Banks|James Marsden|Gillian Jacobs|Sarah Wright,6.0
+111,5.0,1086772,Blended (2014),Comedy,Frank Coraci,Adam Sandler|Drew Barrymore|Kevin Nealon|Terry Crews,6.5
+111,2.5,1587310,Maleficent (2014),Action|Adventure|Children|IMAX,Robert Stromberg,Angelina Jolie|Elle Fanning|Sharlto Copley|Lesley Manville,7.0
+111,2.5,2557490,A Million Ways to Die in the West (2014),Comedy|Western,Seth MacFarlane,Seth MacFarlane|Charlize Theron|Amanda Seyfried|Liam Neeson,6.1
+111,4.5,2294449,22 Jump Street (2014),Action|Comedy|Crime,Phil Lord|Christopher Miller,Jonah Hill|Channing Tatum|Peter Stormare|Wyatt Russell,7.0
+111,3.0,2103254,Tammy (2014),Comedy,Ben Falcone,Melissa McCarthy|Susan Sarandon|Kathy Bates|Allison Janney,4.9
+111,4.0,2267998,Gone Girl (2014),Drama|Thriller,David Fincher,Ben Affleck|Rosamund Pike|Neil Patrick Harris|Tyler Perry,8.1
+111,2.5,1956620,Sex Tape (2014),Comedy,Jake Kasdan,Cameron Diaz|Jason Segel|Rob Corddry|Ellie Kemper,5.1
+111,4.5,2015381,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi,James Gunn,Chris Pratt|Zoe Saldana|Dave Bautista|Vin Diesel,8.1
+111,4.0,1924435,Let's Be Cops (2014),Comedy|Crime,Luke Greenfield,Jake Johnson|Damon Wayans Jr.|Rob Riggle|Nina Dobrev,6.4
+111,4.5,2911666,John Wick (2014),Action|Thriller,Chad Stahelski|David Leitch,Keanu Reeves|Michael Nyqvist|Alfie Allen|Willem Dafoe,7.3
+111,3.0,2245084,Big Hero 6 (2014),Action|Animation|Comedy,Don Hall|Chris Williams,Scott Adsit|Ryan Potter|Daniel Henney|T.J. Miller,7.8
+111,2.5,2096672,Dumb and Dumber To (2014),Comedy,Bobby Farrelly|Peter Farrelly,Jim Carrey|Jeff Daniels|Rob Riggle|Laurie Holden,5.6
+111,3.5,2170439,Horrible Bosses 2 (2014),Comedy|Crime,Sean Anders,Jason Bateman|Jason Sudeikis|Charlie Day|Jennifer Aniston,6.3
+111,3.5,1911658,Penguins of Madagascar (2014),Adventure|Animation|Children|Comedy,Eric Darnell|Simon J. Smith,Tom McGrath|Chris Miller|Christopher Knights|Conrad Vernon,6.7
+111,4.5,0424934,Dave Chappelle: For What it's Worth (2004),Comedy,Stan Lathan,Dave Chappelle,8.5
+111,4.5,3823690,Bill Burr: I'm Sorry You Feel That Way (2014),Comedy,Jay Karas,Bill Burr,8.3
+111,4.5,2788710,The Interview (2014),Action|Comedy,Evan Goldberg|Seth Rogen,James Franco|Seth Rogen|Lizzy Caplan|Randall Park,6.5
+111,5.0,2802144,Kingsman: The Secret Service (2015),Action|Adventure|Comedy|Crime,Matthew Vaughn,Adrian Quinton|Colin Firth|Mark Strong|Jonno Davies,7.7
+111,4.5,2290153,Bill Burr: You People Are All the Same (2012),Comedy,Jay Karas,Bill Burr|Paul Virzi,8.3
+111,3.5,2692250,Night at the Museum: Secret of the Tomb (2014),Adventure|Children|Comedy|Fantasy,Shawn Levy,Ben Stiller|Robin Williams|Owen Wilson|Steve Coogan,6.2
+111,4.5,1717578,Bill Burr: Let It Go (2010),Comedy,Shannon Hartman,Bill Burr,8.3
+111,4.5,1254947,Bill Burr: Why Do I Do This? (2008),Comedy,Shannon Hartman,Bill Burr,8.3
+111,3.5,2215489,Sebastian Maniscalco: What's Wrong with People? (2012),Comedy,Manny Rodriguez,Sebastian Maniscalco,8.1
+111,4.0,1392190,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller,George Miller,Tom Hardy|Charlize Theron|Nicholas Hoult|Hugh Keays-Byrne,8.1
+111,3.0,0478970,Ant-Man (2015),Action|Adventure|Sci-Fi,Peyton Reed,Paul Rudd|Michael Douglas|Evangeline Lilly|Corey Stoll,7.3
+111,5.0,1431045,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi,Tim Miller,Ryan Reynolds|Karan Soni|Ed Skrein|Michael Benyaer,8.0
+111,4.5,1439235,Jim Jefferies: I Swear to God (2009),Comedy,John Moffitt,Jim Jefferies,8.3
+111,4.5,1666801,The DUFF (2015),Comedy,Ari Sandel,Mae Whitman|Robbie Amell|Bella Thorne|Bianca A. Santos,6.5
+111,4.5,3726704,Experimenter (2015),Drama,Michael Almereyda,John Palladino|Anthony Edwards|Jim Gaffigan|Peter Sarsgaard,6.6
+111,4.5,4257858,Going Clear: Scientology and the Prison of Belief (2015),Documentary,Alex Gibney,Paul Haggis|Jason Beghe|Spanky Taylor|David Miscavige,8.0
+111,4.0,0888817,Family Guy Presents: Blue Harvest (2007),Animation|Comedy,Dominic Polcino|James Purdum|Peter Shin,Seth MacFarlane|Alex Borstein|Seth Green|Mila Kunis,8.3
+111,4.0,3234126,Jim Norton: American Degenerate (2013),Comedy,Shannon Hartman,Robert Kelly|Jim Norton|Michael Kenneth Williams,7.1
+111,4.5,3958494,Jim Jefferies: BARE (2014),Comedy,Shannon Hartman,Jim Jefferies,8.1
+111,5.0,0884732,The Wedding Ringer (2015),Comedy,Jeremy Garelick,Kevin Hart|Josh Gad|Affion Crockett|Kaley Cuoco,6.7
+111,5.0,3500822,Tom Segura: Completely Normal (2014),Comedy,Jay Chapman,Tom Segura,7.8
+111,3.0,2637294,Hot Tub Time Machine 2 (2015),Comedy|Sci-Fi,Steve Pink,Rob Corddry|Craig Robinson|Clark Duke|Adam Scott,5.1
+111,2.5,2381941,Focus (2015),Comedy|Crime|Drama|Romance,Glenn Ficarra|John Requa,Will Smith|Margot Robbie|Adrian Martinez|Gerald McRaney,6.6
+111,2.5,2358925,Unfinished Business (2015),Comedy,Ken Scott,Vince Vaughn|Tom Wilkinson|Dave Franco|Sienna Miller,5.4
+111,3.0,3203616,The Cobbler (2015),Comedy|Drama|Fantasy,Tom McCarthy,Elli|Adam B. Shapiro|Evan Neumann|Allen Lewis Rickman,5.8
+111,4.5,2224026,Home (2015),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,Tim Johnson,Jim Parsons|Rihanna|Steve Martin|Jennifer Lopez,6.6
+111,5.0,2561572,Get Hard (2015),Comedy|Crime,Etan Cohen,Will Ferrell|Kevin Hart|Craig T. Nelson|Alison Brie,6.0
+111,4.0,4073952,Iliza Shlesinger: Freezing Hot (2015),Comedy,-,Iliza Shlesinger,6.8
+111,3.5,2848292,Pitch Perfect 2 (2015),Comedy,Elizabeth Banks,Anna Kendrick|Rebel Wilson|Hailee Steinfeld|Brittany Snow,6.4
+111,5.0,3079380,Spy (2015),Action|Comedy|Crime,Paul Feig,Jude Law|Raad Rawi|Melissa McCarthy|Jessica Chaffin,7.0
+111,3.0,3152624,Trainwreck (2015),Comedy|Romance,Judd Apatow,Colin Quinn|Devin Fabry|Carla Oudin|Amy Schumer,6.2
+111,2.5,2096673,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,Pete Docter|Ronnie Del Carmen(co-director),Amy Poehler|Phyllis Smith|Richard Kind|Bill Hader,8.2
+111,2.5,3043546,Trevor Noah: African American (2013),Comedy,Ryan Polito,Trevor Noah,7.3
+111,4.0,2120120,Pixels (2015),Action|Comedy|Sci-Fi,Chris Columbus,Adam Sandler|Kevin James|Michelle Monaghan|Peter Dinklage,5.6
+111,2.5,2709768,The Secret Life of Pets (2016),Animation|Comedy,Chris Renaud|Yarrow Cheney(co-director),Louis C.K.|Eric Stonestreet|Kevin Hart|Jenny Slate,6.5
+111,4.0,1386697,Suicide Squad (2016),Action|Crime|Sci-Fi,David Ayer,Will Smith|Jaime FitzSimons|Ike Barinholtz|Margot Robbie,6.1
+111,2.0,2637276,Ted 2 (2015),Comedy,Seth MacFarlane,Mark Wahlberg|Seth MacFarlane|Amanda Seyfried|Jessica Barth,6.3
+111,3.5,2293640,Minions (2015),Adventure|Animation|Children|Comedy,Kyle Balda|Pierre Coffin,Sandra Bullock|Jon Hamm|Michael Keaton|Allison Janney,6.4
+111,2.5,1355683,Black Mass (2015),Crime|Drama,Scott Cooper,Johnny Depp|Joel Edgerton|Benedict Cumberbatch|Dakota Johnson,6.9
+111,1.5,1082588,Gabriel Iglesias: Hot and Fluffy (2007),Comedy,Manny Rodriguez,Gabriel Iglesias,8.0
+111,3.5,1999192,Kevin Hart: Laugh at My Pain (2011),Comedy|Documentary,Leslie Small|Tim Story,Kevin Hart|Taraji P. Henson|Will 'Spank' Horton|Harry Ratchford,7.4
+111,2.0,4209802,Jeff Dunham: All Over the Map (2014),Comedy,Rob Dipple,Jeff Dunham|Jeff Rothpan,7.1
+111,4.0,1524930,Vacation (2015),Adventure|Comedy,John Francis Daley|Jonathan Goldstein,Ed Helms|Christina Applegate|Skyler Gisondo|Steele Stebbins,6.1
+111,4.5,2361509,The Intern (2015),Comedy,Nancy Meyers,Robert De Niro|Anne Hathaway|Rene Russo|Anders Holm,7.1
+111,4.5,1398426,Straight Outta Compton (2015),Drama,F. Gary Gray,O'Shea Jackson Jr.|Corey Hawkins|Jason Mitchell|Neil Brown Jr.,7.9
+111,4.5,3530002,The Night Before (2015),Comedy,Jonathan Levine,Joseph Gordon-Levitt|Seth Rogen|Anthony Mackie|Jillian Bell,6.4
+111,1.5,0475290,"Hail, Caesar! (2016)",Comedy,Ethan Coen|Joel Coen,Josh Brolin|George Clooney|Alden Ehrenreich|Ralph Fiennes,6.3
+111,4.0,0270288,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Romance|Thriller,George Clooney,Dick Clark|Sam Rockwell|Michelle Sweeney|Drew Barrymore,7.1
+111,5.0,1596363,"Big Short, The (2015)",Drama,Adam McKay,Ryan Gosling|Rudy Eisenzopf|Casey Groves|Charlie Talbert,7.8
+111,3.0,2479478,The Ridiculous 6 (2015),Comedy|Western,Frank Coraci,Adam Sandler|Terry Crews|Jorge Garcia|Taylor Lautner,4.8
+111,4.5,1292566,How to Be Single (2016),Comedy|Romance,Christian Ditter,Dakota Johnson|Rebel Wilson|Leslie Mann|Damon Wayans Jr.,6.1
+111,4.0,1528854,Daddy's Home (2015),Comedy,Sean Anders,Will Ferrell|Mark Wahlberg|Linda Cardellini|Thomas Haden Church,6.1
+111,4.0,1850457,Sisters (2015),Children|Comedy,Jason Moore,Amy Poehler|Tina Fey|Maya Rudolph|Ike Barinholtz,6.0
+111,4.5,3845232,Sherlock: The Abominable Bride (2016),Action|Crime|Drama|Mystery|Thriller,Douglas Mackinnon,Benedict Cumberbatch|Martin Freeman|Una Stubbs|Rupert Graves,8.2
+111,4.0,1860213,Dirty Grandpa (2016),Comedy,Dan Mazer,Robert De Niro|Zac Efron|Zoey Deutch|Aubrey Plaza,5.9
+111,2.5,2948356,Zootopia (2016),Action|Adventure|Animation|Children|Comedy,Byron Howard|Rich Moore|Jared Bush(co-director),Ginnifer Goodwin|Jason Bateman|Idris Elba|Jenny Slate,8.0
+111,4.5,2091935,Mr. Right (2016),Action|Comedy|Romance,Paco Cabezas,Sam Rockwell|Anna Kendrick|Tim Roth|James Ransone,6.3
+111,4.0,1468846,Get a Job (2016),Comedy,Dylan Kidd,Miles Teller|Anna Kendrick|Bryan Cranston|Nicholas Braun,5.3
+111,2.0,4438848,Neighbors 2: Sorority Rising (2016),Comedy,Nicholas Stoller,Seth Rogen|Zac Efron|Rose Byrne|Chloë Grace Moretz,5.7
+111,4.5,2277860,Finding Dory (2016),Adventure|Animation|Comedy,Andrew Stanton|Angus MacLane(co-director),Ellen DeGeneres|Albert Brooks|Ed O'Neill|Kaitlin Olson,7.3
+111,3.0,2702724,The Boss (2016),Comedy,Ben Falcone,Melissa McCarthy|Kristen Bell|Peter Dinklage|Ella Anderson,5.4
+111,4.5,3774114,Snowden (2016),Drama|Thriller,Oliver Stone,Melissa Leo|Zachary Quinto|Joseph Gordon-Levitt|Jaymes Butler,7.3
+111,2.5,2567026,Alice Through the Looking Glass (2016),Adventure|Children|Fantasy,James Bobin,Johnny Depp|Mia Wasikowska|Helena Bonham Carter|Anne Hathaway,6.2
+111,0.5,1700841,Sausage Party (2016),Animation|Comedy,Greg Tiernan|Conrad Vernon,Alistair Abell|Iris Apatow|Sugar Lyn Beard|Michael Cera,6.2
+111,4.5,3110958,Now You See Me 2 (2016),Action|Comedy|Thriller,Jon M. Chu,Jesse Eisenberg|Mark Ruffalo|Woody Harrelson|Dave Franco,6.5
+111,4.5,5066574,Ali Wong: Baby Cobra (2016),(no genres listed),Jay Karas,Ali Wong,7.5
+111,4.5,4769836,The Do-Over (2016),Comedy,Steven Brill,Adam Sandler|David Spade|Paula Patton|Kathryn Hahn,5.7
+111,1.5,3960412,Popstar: Never Stop Never Stopping (2016),Comedy,Akiva Schaffer|Jorma Taccone,Andy Samberg|Jorma Taccone|Akiva Schaffer|Sarah Silverman,6.7
+111,3.5,1289401,Ghostbusters (2016),Action|Comedy|Horror|Sci-Fi,Paul Feig,Zach Woods|Kristen Wiig|Ed Begley Jr.|Charles Dance,5.2
+111,5.0,1489889,Central Intelligence (2016),Action|Comedy,Rawson Marshall Thurber,Dwayne Johnson|Kevin Hart|Amy Ryan|Danielle Nicolet,6.3
+111,4.5,5275892,O.J.: Made in America (2016),Documentary,Ezra Edelman,Kareem Abdul-Jabbar|Mike Albanese|Muhammad Ali|Marcus Allen,9.0
+111,4.5,2823054,Mike & Dave Need Wedding Dates (2016),Comedy,Jake Szymanski,Zac Efron|Adam Devine|Anna Kendrick|Aubrey Plaza,6.0
+111,4.5,5849950,Jim Jefferies: Freedumb (2016),Comedy,-,Jim Jefferies,7.7
+111,4.5,2005151,War Dogs (2016),Comedy,Todd Phillips,Miles Teller|Steve Lantz|Gregg Weiner|David Packouz,7.1
+111,4.5,4651520,Bad Moms (2016),Comedy,Jon Lucas|Scott Moore,Mila Kunis|Kathryn Hahn|Kristen Bell|Christina Applegate,6.2
+111,5.0,4970632,Tom Segura: Mostly Stories (2016),Comedy,Jay Karas|Rami Hachache,Gabriel G. Alvarez|I. Elijah Baughman|Brandon Brown|Davis Choh,7.5
+111,4.5,2461150,Masterminds (2016),Action|Comedy|Crime,Jared Hess,Zach Galifianakis|Kristen Wiig|Owen Wilson|Ross Kimball,5.8
+111,4.5,3631112,The Girl on the Train (2016),Thriller,Tate Taylor,Emily Blunt|Haley Bennett|Rebecca Ferguson|Justin Theroux,6.5
+111,4.0,2387499,Keeping Up with the Joneses (2016),Comedy,Greg Mottola,Zach Galifianakis|Isla Fisher|Jon Hamm|Gal Gadot,5.9
+111,4.0,6023444,Joe Rogan: Triggered (2016),Comedy,Anthony Giordano,Joe Rogan,7.5
+111,0.5,1798603,Bad Santa 2 (2016),Comedy,Mark Waters,Billy Bob Thornton|Kathy Bates|Tony Cox|Christina Hendricks,5.6
+111,4.5,4431208,Ice Guardians (2016),Documentary,Brett Harvey,Jay Baruchel|Jarome Iginla|Chris Chelios|Bobby Hull,7.5
+111,4.0,4964772,Risk (2016),Documentary,Laura Poitras,Julian Assange|Sarah Harrison|Jacob Appelbaum|Joseph Farrell,6.3
+111,4.0,1542768,The True Memoirs of an International Assassin (2016),Action|Comedy,Jeff Wadlow,Kevin James|Kim Coates|Maurice Compte|Zulay Henao,5.9
+111,4.5,3521164,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,Ron Clements|John Musker|Don Hall(co-director)|Chris Williams(co-director),Auli'i Cravalho|Dwayne Johnson|Rachel House|Temuera Morrison,7.6
+111,4.5,1711525,Office Christmas Party (2016),Comedy,Josh Gordon|Will Speck,Jason Bateman|Olivia Munn|T.J. Miller|Jennifer Aniston,5.8
+111,4.5,4501244,Why Him? (2016),Comedy,John Hamburg,Zoey Deutch|James Franco|Tangie Ambrose|Cedric the Entertainer,6.2
+111,4.0,3470600,Sing (2016),Animation|Children|Comedy,Garth Jennings|Christophe Lourdelet(co-director),Matthew McConaughey|Reese Witherspoon|Seth MacFarlane|Scarlett Johansson,7.1
+111,4.0,0822818,Joe Rogan: Live (2006),Comedy,Michael Blieden,Joe Rogan,7.4
+111,2.5,0248752,Denis Leary: No Cure for Cancer (1993),Comedy,Ted Demme,Denis Leary|Chris Phillips|Adam Roth,7.6
+111,1.0,6264596,Maria Bamford: Old Baby,(no genres listed),Jessica Yu,Maria Bamford,6.0
+111,3.5,6263642,Generation Iron 2,(no genres listed),Vlad Yudin,Arnold Schwarzenegger|Martyn Ford|Calum Von Moger|Kai Greene,6.1
+111,3.0,0105321,Saved by the Bell: Hawaiian Style (1992),Comedy,Don Barnhart,Mark-Paul Gosselaar|Mario Lopez|Dustin Diamond|Tiffani Thiessen,6.1
+111,4.0,4129180,Dane Cook: Troublemaker (2014),Comedy,Dane Cook,Dane Cook,6.3
+111,4.0,5189670,Making a Murderer (2015),Crime|Documentary,-,Dolores Avery|Steven Avery|Ken Kratz|Brendan Dassey,8.7

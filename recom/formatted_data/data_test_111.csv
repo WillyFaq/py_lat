@@ -1,0 +1,40 @@
+userId,userRating,imdbId,title,genres,directors,actors,imdbRating
+111,3.5,1790809,Pirates of the Caribbean: Dead Men Tell No Tales (2017),Action|Adventure|Fantasy,Joachim Rønning|Espen Sandberg,Johnny Depp|Javier Bardem|Geoffrey Rush|Brenton Thwaites,6.6
+111,4.0,3896198,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,James Gunn,Chris Pratt|Zoe Saldana|Dave Bautista|Vin Diesel,7.7
+111,0.5,4972582,Split (2017),Drama|Horror|Thriller,M. Night Shyamalan,James McAvoy|Anya Taylor-Joy|Betty Buckley|Haley Lu Richardson,7.3
+111,4.5,3401882,Fist Fight (2017),Comedy,Richie Keen,Charlie Day|Ice Cube|Tracy Morgan|Jillian Bell,5.6
+111,3.5,4116284,The Lego Batman Movie (2017),Action|Animation|Comedy,Chris McKay,Will Arnett|Michael Cera|Rosario Dawson|Ralph Fiennes,7.3
+111,4.0,4425200,John Wick: Chapter Two (2017),Action|Crime|Thriller,Chad Stahelski,Keanu Reeves|Riccardo Scamarcio|Ian McShane|Ruby Rose,7.5
+111,4.0,5462602,The Big Sick (2017),Comedy|Romance,Michael Showalter,Kumail Nanjiani|Zoe Kazan|Holly Hunter|Ray Romano,7.6
+111,4.5,3874544,The Boss Baby (2017),Animation|Children|Comedy,Tom McGrath,Alec Baldwin|Steve Buscemi|Jimmy Kimmel|Lisa Kudrow,6.3
+111,4.0,6184894,Bill Burr: Walk Your Way Out (2017),Comedy,Jay Karas,Bill Burr,7.1
+111,4.5,6438918,Neal Brennan: 3 Mics (2017),Comedy,Neal Brennan,Neal Brennan,7.9
+111,4.0,6648926,Dave Chappelle: The Age of Spin (2017),Comedy,Stan Lathan,Dave Chappelle,8.0
+111,4.0,0493405,CHiPS (2017),Action|Comedy|Drama,Dax Shepard,Michael Peña|Dax Shepard|Vincent D'Onofrio|Rosa Salazar,6.0
+111,3.0,1412528,Table 19 (2017),Comedy|Drama,Jeffrey Blitz,Anna Kendrick|Rya Meyers|Charles Green|Lisa Kudrow,5.8
+111,4.0,1469304,Baywatch (2017),Action|Comedy,Seth Gordon,Dwayne Johnson|Zac Efron|Priyanka Chopra|Alexandra Daddario,5.6
+111,4.0,2334871,Snatched (2017),Action|Comedy,Jonathan Levine,Amy Schumer|Kim Caramele|Raven Goodwin|Katie Dippold,4.5
+111,2.0,5893332,Sandy Wexler (2017),Comedy,Steven Brill,Adam Sandler|Jennifer Hudson|Kevin James|Colin Quinn,5.1
+111,3.0,3155328,Win It All (2017),Comedy,Joe Swanberg,Jake Johnson|Rony Shemon|Morgan Ng|Edward Kaihatsu,6.2
+111,3.0,3606752,Cars 3 (2017),Adventure|Animation|Comedy,Brian Fee,Owen Wilson|Cristela Alonzo|Chris Cooper|Nathan Fillion,6.8
+111,4.0,6333064,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)",Documentary,Brian Knappenberger,Nick Denton|Hulk Hogan|Donald Trump,6.5
+111,4.5,4799050,Rough Night (2017),Comedy|Drama,Lucia Aniello,Scarlett Johansson|Jillian Bell|Zoë Kravitz|Ilana Glazer,5.2
+111,4.0,3469046,Despicable Me 3 (2017),Adventure|Animation|Children|Comedy,Kyle Balda|Pierre Coffin|Eric Guillon(co-director),Steve Carell|Kristen Wiig|Trey Parker|Miranda Cosgrove,6.3
+111,2.5,6878486,"Norm Macdonald: Hitler's Dog, Gossip & Trickery (2017)",Comedy,Liz Plonka,Norm MacDonald,7.1
+111,4.0,2417712,Goon: Last of the Enforcers (2017),Comedy,Jay Baruchel,Seann William Scott|Alison Pill|Marc-André Grondin|Liev Schreiber,5.8
+111,3.5,4481514,The House (2017),Comedy,Andrew Jay Cohen,Will Ferrell|Amy Poehler|Jason Mantzoukas|Ryan Simpkins,5.6
+111,1.5,7044010,Rory Scovel Tries Stand-Up for the First Time (2017),Comedy,Scott Moran,Rory Scovel|Jack White|Ben Swank|Ben Kronberg,6.7
+111,4.0,4649466,Kingsman: The Golden Circle (2017),Action|Adventure|Comedy,Matthew Vaughn,Taron Egerton|Edward Holcroft|Gordon Alexander|Mark Strong,6.8
+111,4.0,6254796,Ari Shaffir: Double Negative (2017),Comedy,Eric Abrams,Ari Shaffir,6.7
+111,3.5,7291268,Gaga: Five Foot Two (2017),Documentary,Chris Moukarbel,Sandra Amador|Michael Bearden|Tony Bennett|BloodPop,7.1
+111,3.5,7057376,Christina P: Mother Inferior (2017),Comedy,Jay Karas,Christina Pazsitzky,6.4
+111,3.5,6359956,A Bad Moms Christmas (2017),Comedy,Jon Lucas|Scott Moore,Mila Kunis|Kristen Bell|Kathryn Hahn|Christine Baranski,5.5
+111,4.5,7214762,Jim & Andy: The Great Beyond (2017),Documentary,Chris Smith,Jim Carrey|Danny DeVito|Milos Forman|Peter Bonerz,7.7
+111,3.5,7539884,Jack Whitehall: At Large (2017),Comedy,Brian Klein,Jack Whitehall,6.9
+111,1.5,6892388,Lynne Koplitz: Hormonal Beast (2017),Comedy,Marcus Raboy,Lynne Koplitz,6.1
+111,2.5,7193448,Craig Ferguson: Tickle Fight (2017),Comedy,Jay Chapman,Craig Ferguson,6.5
+111,2.5,7738550,Judd Apatow: The Return (2017),Comedy,Marcus Raboy,Judd Apatow,6.2
+111,3.5,7807952,Dave Chappelle: Equanimity (2017),Comedy,Stan Lathan,Dave Chappelle|Donnell Rawlings,8.1
+111,3.5,7808620,Dave Chappelle: The Bird Revelation (2017),Comedy,Stan Lathan,Dave Chappelle,7.7
+111,4.5,7379330,Tom Segura: Disgraceful (2018),Comedy,Jay Karas,Tom Segura,7.6
+111,3.5,5783956,When We First Met (2018),Comedy,Ari Sandel,Adam Devine|Alexandra Daddario|Shelley Hennig|Andrew Bachelor,6.4
